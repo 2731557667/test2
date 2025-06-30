@@ -1,0 +1,5 @@
+<h2>ISTORIJA</h2>
+<h3>Naš Centar</h3>
+<p>Београдски технички институт за аутоматизацију (BTIA) osnovan je 2020. godine u Beogradu, sa ciljem da pruži visokokvalitetno online obrazovanje u Srbiji i regionu. Centar je nastao kao odgovor na savremene izazove digitalizacije i potrebu za dostupnim obrazovanjem bez geografskih ograničenja.</p>
+<p>BTIA je brzo postao prepoznatljiv po inovativnim programima, saradnji sa vodećim stručnjacima i kompanijama, kao i po izuzetnoj podršci studentima. Naša misija je da razvijamo znanje, veštine i profesionalizam kod mladih ljudi, pripremajući ih za uspeh u savremenom društvu.</p>
+<p>Centar organizuje brojne simpozijume, radionice i takmičenja, a naši studenti redovno osvajaju nagrade na nacionalnim i međunarodnim događajima. BTIA je danas lider u online obrazovanju u Srbiji.</p>
