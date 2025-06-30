@@ -9,10 +9,7 @@ import {
 import Link from "next/link";
 import Autoplay from "embla-carousel-autoplay";
 import { useEffect, useState } from "react";
-import { getCarouselImages } from "@/lib/data";
-import { getImgLink } from "@/lib/data";
 import Image from "next/image";
-import ucekImage from "@/public/img/ucek.jpeg";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 export function HeroSlider() {
@@ -46,7 +43,7 @@ export function HeroSlider() {
       description: "Težnja ka znanju i inovacijama" 
     },
     { 
-      image: "https://urk.edu.pl/m/RDHEGWDgnZwM8ASEmGlJTUhtuDwM4FxUZblQVIiwbPQYTcU8CZGUIRnlEdT8XQ1wVUm5THiYHA2ljTAAqKhsGM1hhKRwhIlofJwsLYClSWlAEJUYfFk0DWS1TFCM3WE5NEToZVnNtGhEvBjI9KUVRXBo5QRYpCBFqfgwvdHNUCB8QcVkRPTZWFGxSdSoYFRgVCyNbAzgNHFkpS1J8ZwkOBhM2BxF9dUwKPg11dVReWVYPKRdbaBEZTykbSmQmAlNWRWMNBWFnGg4/baner_rekrutacja_25_26.webp", 
+      image: "https://lh3.googleusercontent.com/-eYfrt0LhZxA/VDJ0i6_2OII/AAAAAAAArxk/pM84NH1eSuc/s912/SvecaniPrijemBrucosaPFB-060.JPG", 
       title: "Budućnost tehnologije", 
       description: "Tehnologija koja oblikuje sutra" 
     }
@@ -130,12 +127,13 @@ export function HeroSlider() {
           <CarouselItem className="overflow-hidden">
             <div className="relative">
               <Image
-                src={ucekImage}
+                src="https://img95.699pic.com/photo/50123/0481.jpg_wh860.jpg"
                 width={1920}
                 height={1080}
                 alt="Београдски технички институт за аутоматизацију"
                 className="h-[75vh] w-full object-cover transition-transform duration-500"
                 priority={true}
+                unoptimized={true}
               />
               <div className="absolute inset-0 flex flex-col items-center justify-center space-y-4 bg-gradient-to-t from-black/70 to-transparent">
                 <div className="space-y-4 text-center text-white max-w-4xl px-6 animate-fadeIn">
