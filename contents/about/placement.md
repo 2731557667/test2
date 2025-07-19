@@ -1,8 +1,8 @@
-Career Guidance and Placement Unit
+Μονάδα Καθοδήγησης Καριέρας και Τοποθέτησης
 
-<h4><font color="#666666">Savetnik za zapošljavanje :</font> Ana Nikolić, docent na Katedri za informacione tehnologije, <font color="#666666">Email :</font> ana.nikolic@btia.edu.rs, <font color="#666666">Mob :</font> +381 64 2233445</h4>
-<p>Centar za karijerno vođenje i zapošljavanje (CKVZ) radi kao tim pod rukovodstvom koordinatora, članova iz svakog odseka i grupe posvećenih studenata. Studenti centra redovno ostvaruju praksu i zaposlenje u mnogim domaćim i međunarodnim kompanijama kao što su Nordeus, Comtrade, Microsoft, Telenor, Telekom Srbija itd.</p>
-<p>CKVZ šalje brošure kompanijama i poziva ih na regrutaciju. Kompanije mogu dostaviti svoje zahteve, a CKVZ obezbeđuje sve potrebne uslove za prezentacije, testiranja i intervjue.</p>
-<p>Centar pomaže studentima u organizaciji stručne prakse i projekata u industriji, kao i u razvoju ličnih i profesionalnih veština. Ove aktivnosti doprinose povezivanju obrazovanja i tržišta rada.</p>
+<h4><font color="#666666">Σύμβουλος Απασχόλησης :</font> Άννα Νικολάου, επίκουρη καθηγήτρια στο Τμήμα Πληροφορικής, <font color="#666666">Email :</font> anna.nikolaou@api.edu.gr, <font color="#666666">Κιν :</font> +30 21 1234 5678</h4>
+<p>Το Κέντρο Καριέρας και Απασχόλησης (ΚΚΑ) λειτουργεί ως ομάδα υπό την καθοδήγηση του συντονιστή, μελών από κάθε τμήμα και μιας ομάδας αφοσιωμένων φοιτητών. Οι φοιτητές του κέντρου πραγματοποιούν τακτικά πρακτική άσκηση και βρίσκουν εργασία σε πολλές εγχώριες και διεθνείς εταιρείες όπως η Google, Microsoft, Amazon, Vodafone, Cosmote κλπ.</p>
+<p>Το ΚΚΑ στέλνει ενημερωτικά φυλλάδια σε εταιρείες και τις προσκαλεί για πρόσληψη. Οι εταιρείες μπορούν να υποβάλουν τις απαιτήσεις τους, και το ΚΚΑ παρέχει όλες τις απαραίτητες προϋποθέσεις για παρουσιάσεις, δοκιμασίες και συνεντεύξεις.</p>
+<p>Το Κέντρο βοηθά τους φοιτητές στην οργάνωση επαγγελματικής πρακτικής και έργων στη βιομηχανία, καθώς και στην ανάπτυξη προσωπικών και επαγγελματικών δεξιοτήτων. Αυτές οι δραστηριότητες συμβάλλουν στη σύνδεση της εκπαίδευσης με την αγορά εργασίας.</p>
 <br/>
-<h4 style="margin-bottom:15px;">Detalji o nekim zaposlenim studentima</h4> 
+<h4 style="margin-bottom:15px;">Λεπτομέρειες για μερικούς από τους φοιτητές που βρήκαν εργασία</h4> 

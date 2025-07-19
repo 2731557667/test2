@@ -13,28 +13,28 @@ const Footer = () => {
               width={85}
               height={85}
               src={logo.src}
-              alt="Београдски технички институт за аутоматизацију Logo"
+              alt="Πολυτεχνείο Αθηνών Καινοτομίας Logo"
              className="h-[50px] w-[50px] md:h-[62px] md:w-[62px] prevent-select"
             />
             <div className="text-center md:text-left">
               <h1 className="text-lg font-bold">
-                Београдски технички институт за аутоматизацију
+                Πολυτεχνείο Αθηνών Καινοτομίας
               </h1>
-              <p className="text-sm">Beograd, Srbija</p>
+              <p className="text-sm">Αθήνα, Ελλάδα</p>
             </div>
           </div>
           <div className="flex">
-            {/* Opciono: Možete dodati iframe mapu Univerziteta u Beogradu ili BTIA lokacije */}
+            {/* Προαιρετικά: Μπορείτε να προσθέσετε iframe χάρτη του Πανεπιστημίου Αθηνών ή API τοποθεσίας */}
           </div>
         </div>
         <div className="bg-white border-t mt-4">
           <div className="text-[11px] md:text-sm container mx-auto p-5 flex flex-col md:flex-row justify-between items-center text-gray-600">
             <p className="text-center">
-              &copy; 2024 Београдски технички институт за аутоматизацију, Beograd, Srbija. Sva prava zadržana.
+              &copy; 2024 Πολυτεχνείο Αθηνών Καινοτομίας, Αθήνα, Ελλάδα. Όλα τα δικαιώματα διατηρούνται.
             </p>
             <div>
               <p className="text-center">
-                Zaprojektovao i razvio <a href="#"><u>BTIA tim</u></a>
+                Σχεδιάστηκε και αναπτύχθηκε από <a href="#"><u>ομάδα API</u></a>
               </p>
             </div>
           </div>

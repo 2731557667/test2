@@ -1,20 +1,21 @@
-<h2>Staff Club</h2>
-<p>The staff club is formed to facilitate positive interaction between the teachers of various departments of the college. Teaching and non-teaching staff are the members of the club. Club is always presided by the Principal. Other members chosen by the general body of the staff which will be convened annually. Participation in the major events happening in the family of members, organizing lectures on specific topics by experts; celebrating festivals etc. are some of the many activities of the staff club. The club promotes a very positive work atmosphere at UCE and binds all as a family. All the staff joining college would become the member of staff club automatically. Besides, the staff club also promotes the interaction among staffs in different positions and roles, so that they can develop personal and professional bond during working hour.</p>
-<h2> Aims and Objectives</h2>
-<p>1.	To facilitate positive interaction between the teachers of various departments of the college.<br/>
-2.	To provide recreational activities for the staff members.<br/>
-3.	To carry out talks on various topics for the benefit of teachers.<br/>
-4.	To conduct an annual cultural event for the staff members and their families.<br/>
-5.	To organize an annual get-together of the club members and the retired teachers.<br/>
-6.	To convene a retirement function at the end of each academic year.<br/>
+<h2>Σύλλογος Προσωπικού</h2>
+<p>Ο σύλλογος προσωπικού σχηματίστηκε για να διευκολύνει τη θετική αλληλεπίδραση μεταξύ των διδασκόντων διαφόρων τμημάτων του κολλεγίου. Διδακτικό και μη διδακτικό προσωπικό είναι μέλη του συλλόγου. Ο σύλλογος προεδρεύεται πάντα από τον Διευθυντή. Άλλα μέλη επιλέγονται από τη γενική συνέλευση του προσωπικού που συγκαλείται ετησίως. Συμμετοχή στα μεγάλα γεγονότα που συμβαίνουν στην οικογένεια των μελών, διοργάνωση διαλέξεων σε συγκεκριμένα θέματα από ειδικούς· εορτασμός εορτών κλπ. είναι μερικές από τις πολλές δραστηριότητες του συλλόγου προσωπικού. Ο σύλλογος προωθεί μια πολύ θετική ατμόσφαιρα εργασίας στο ΠΑΚ και δεσμεύει όλους ως οικογένεια. Όλο το προσωπικό που εισέρχεται στο κολλέγιο θα γίνει μέλος του συλλόγου προσωπικού αυτόματα. Επιπλέον, ο σύλλογος προσωπικού προωθεί επίσης την αλληλεπίδραση μεταξύ του προσωπικού σε διαφορετικές θέσεις και ρόλους, ώστε να μπορούν να αναπτύξουν προσωπικό και επαγγελματικό δεσμό κατά τη διάρκεια της εργασίας.</p>
+<h2>Στόχοι και Επιδιώξεις</h2>
+<p>1.	Να διευκολύνει τη θετική αλληλεπίδραση μεταξύ των διδασκόντων διαφόρων τμημάτων του κολλεγίου.<br/>
+2.	Να παρέχει ψυχαγωγικές δραστηριότητες για τα μέλη του προσωπικού.<br/>
+3.	Να διεξάγει συζητήσεις σε διάφορα θέματα προς όφελος των διδασκόντων.<br/>
+4.	Να διοργανώνει ετήσια πολιτιστική εκδήλωση για τα μέλη του προσωπικού και τις οικογένειές τους.<br/>
+5.	Να διοργανώνει ετήσια συγκέντρωση των μελών του συλλόγου και των συνταξιοδοτημένων διδασκόντων.<br/>
+6.	Να συγκαλεί τελετή συνταξιοδότησης στο τέλος κάθε ακαδημαϊκού έτους.<br/>
 </p>
-<h2>Executive committee</h2>
-<table border="1">
-<tr><td>President</td><td>Dr Bisharathu Beevi A</td><td>Principal</td></tr>
-<tr><td>Secretary</td><td>Sruthi G S</td><td>Assistant Professor in Civil Engineering</td></tr>
-<tr><td>Joint Secretary</td><td>Shibu Kumar G L</td><td> Tradesman Sheetmetal </td></tr>
-<tr><td>Treasurer</td><td>Sumisha M S</td><td> Assistant Professor in Computer Science</td></tr>
-<tr><td>Executive Member</td><td>Sajitha Rani G L</td><td> Assistant Professor in Electronics and Communication </td></tr>
-<tr><td>Executive Member</td><td>Seena R S</td><td> Lab Assistant </td></tr>
+<h2>Εκτελεστική επιτροπή</h2>
+<table border="2">
+<tr><td><h4>Ιδιότητα</h4></td><td><h4>Όνομα</h4></td><td><h4>Τμήμα</h4></td></tr>
+<tr><td>Πρόεδρος</td><td>Δρ. Μπισαράθου Μπεεβί Α.</td><td>Διευθυντής</td></tr>
+<tr><td>Γραμματέας</td><td>Σρούθι Γ. Σ.</td><td>Επίκουρος Καθηγητής Πολιτικών Μηχανικών</td></tr>
+<tr><td>Αναπληρωτής Γραμματέας</td><td>Σίμπου Κουμάρ Γ. Λ.</td><td>Τεχνίτης Μεταλλοεργασίας</td></tr>
+<tr><td>Ταμίας</td><td>Σουμίσα Μ. Σ.</td><td>Επίκουρος Καθηγητής Επιστήμης Υπολογιστών</td></tr>
+<tr><td>Εκτελεστικό Μέλος</td><td>Σαζίθα Ράνι Γ. Λ.</td><td>Επίκουρος Καθηγητής Ηλεκτρονικών και Επικοινωνιών</td></tr>
+<tr><td>Εκτελεστικό Μέλος</td><td>Σίνα Ρ. Σ.</td><td>Βοηθός Εργαστηρίου</td></tr>
 </table>
-</div>
+

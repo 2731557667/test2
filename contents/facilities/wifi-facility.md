@@ -1,19 +1,16 @@
-```
-CENTRALNI Wi-Fi SISTEM
+# ΚΕΝΤΡΙΚΟ ΣΥΣΤΗΜΑ Wi-Fi
 
+<div style="font-size: 17px;">
+  <p>
+    Το κεντρικό σύστημα Wi-Fi στο API παρέχει ασφαλή πρόσβαση στο διαδίκτυο υψηλής ταχύτητας σε όλο τον κάμπους, συμπεριλαμβανομένων των αιθουσών διδασκαλίας, των βιβλιοθηκών και των κοινόχρηστων χώρων. Υποστηρίζει τις ακαδημαϊκές, ερευνητικές και διοικητικές ανάγκες των φοιτητών και του προσωπικού, διασφαλίζοντας αξιόπιστη σύνδεση μέσω εξουσιοδοτημένων στοιχείων πρόσβασης.
+  </p>
+</div>
 
-  <div style="font-size: 17px;">
-    <p>
-      Centralni Wi-Fi sistem na UCEK-u pruža siguran pristup internetu velike brzine širom kampusa, uključujući učionice, biblioteke i zajedničke prostore. Podržava akademske, istraživačke i administrativne potrebe studenata i osoblja, osiguravajući pouzdanu povezanost kroz autorizovane pristupne podatke.
-    </p>
-  </div>
-
-  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">📌 Ključne karakteristike</h3>
-  <ul style="margin-left: 1.5rem; font-size: 15px;">
-    <li>Pristup internetu velike brzine dostupan širom kampusa</li>
-    <li>Pristupačan i za studente i za osoblje sa jedinstvenim pristupnim podacima</li>
-    <li>Podržava akademske, istraživačke i komunikacijske aktivnosti</li>
-    <li>Pouzdana i sigurna mreža za neprekinut pristup</li>
-    <li>Dostupan u svim glavnim područjima uključujući učionice, biblioteke i zajedničke prostore</li>
-  </ul>
-```
+<h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">📌 Βασικά Χαρακτηριστικά</h3>
+<ul style="margin-left: 1.5rem; font-size: 15px;">
+  <li>Πρόσβαση στο διαδίκτυο υψηλής ταχύτητας διαθέσιμη σε όλο τον κάμπους</li>
+  <li>Προσβάσιμο τόσο για φοιτητές όσο και για προσωπικό με μοναδικά στοιχεία πρόσβασης</li>
+  <li>Υποστηρίζει ακαδημαϊκές, ερευνητικές και επικοινωνιακές δραστηριότητες</li>
+  <li>Αξιόπιστο και ασφαλές δίκτυο για αδιάκοπη πρόσβαση</li>
+  <li>Διαθέσιμο σε όλες τις κύριες περιοχές συμπεριλαμβανομένων αιθουσών, βιβλιοθηκών και κοινόχρηστων χώρων</li>
+</ul>

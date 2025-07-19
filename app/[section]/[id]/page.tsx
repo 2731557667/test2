@@ -45,12 +45,13 @@ export async function generateMetadata({
     content = fileContents.split("\n").slice(1).join("\n");
   } catch (e) {
     title = "404";
-    content = "Страна није пронађена. То је све што знамо. :-(";
+    content = "Η σελίδα δεν βρέθηκε. Αυτό είναι όλο που ξέρουμε. :-(";
   }
 
   return {
     title: title,
-    description: content,
+    description:
+      "Πολυτεχνείο Αθηνών Καινοτομίας, Αθήνα, Ελλάδα",
   };
 }
 
@@ -66,7 +67,7 @@ const getArticle = ({ id, section }: { id: string; section: string }) => {
     // Get last updated date for metadata.json
     const metadataPath = path.join(contentDir, "metadata.json");
     const metadata = JSON.parse(fs.readFileSync(metadataPath, "utf8"));
-    lastUpdated = new Date(metadata[section][`${id}.md`]).toLocaleString('sr-RS', {
+    lastUpdated = new Date(metadata[section][`${id}.md`]).toLocaleString('el-GR', {
       day: '2-digit',
       month: 'short',
       year: 'numeric'
@@ -74,7 +75,7 @@ const getArticle = ({ id, section }: { id: string; section: string }) => {
 
   } catch (e) {
     title = "404";
-    content = "Страна није пронађена. То је све што знамо. :-(";
+    content = "Η σελίδα δεν βρέθηκε. Αυτό είναι όλο που ξέρουμε. :-(";
     lastUpdated = "";
   }
 
@@ -99,7 +100,7 @@ if(title == "404") return notFound();
           src={ucekImage}
           width={1920}
           height={1080}
-          alt="Слика слајдера 1"
+          alt="Εικόνα σλάιντερ 1"
           className="h-[300px] w-full object-cover brightness-50"
         />
         <div className="absolute w-full top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white">
@@ -111,7 +112,7 @@ if(title == "404") return notFound();
               ? content
               : (params.section == "departments" ||
                   params.section == "about") &&
-                "Београдски технички институт за аутоматизацију, Beograd, Srbija"}
+                "Πολυτεχνείο Αθηνών Καινοτομίας, Αθήνα, Ελλάδα"}
           </p>
         </div>
       </div>
@@ -128,7 +129,7 @@ if(title == "404") return notFound();
 
       </div>
       {lastUpdated != "" && <div className="flex text-xs justify-center md:text-sm md:justify-end mr-2 mb-2 text-slate-400">
-        Последње ажурирано: {lastUpdated}
+        Τελευταία ενημέρωση: {lastUpdated}
       </div>}
       <Footer />
     </>

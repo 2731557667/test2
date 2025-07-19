@@ -1,13 +1,13 @@
-Kontakt
+Επικοινωνία
 
-**Adresa:**</br>
-    Београдски технички институт за аутоматизацију
-    Bulevar kralja Aleksandra 73  
-    11000 Beograd, Srbija  
+**Διεύθυνση:**</br>
+    Πολυτεχνείο Αθηνών Καινοτομίας (API)
+    Λεωφόρος Αλεξάνδρας 205  
+    Αθήνα, Τ.Κ. 115 23, Ελλάδα
 
-**Kontakt telefoni:**</br>
-Tel: +381 11 5469154  
-Mob: +381 64 9876543, +381 63 547335  
+**Τηλέφωνα επικοινωνίας:**</br>
+Τηλ: +30 2130989242  
+Κιν: +30 6944876543, +30 6955234567  
 
-E-mail: anadmin101@btia.edu.rs
-Web: www.btia.edu.rs
+E-mail: admin@api.edu.gr
+Web: www.api.edu.gr

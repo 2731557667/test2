@@ -1,22 +1,23 @@
-Staff Club
-The staff club is formed to facilitate positive interaction between the teachers of various departments of the college. Teaching and non-teaching staff are the members of the club. Club is always presided by the Principal. Other members chosen by the general body of the staff which will be convened annually. Participation in the major events happening in the family of members, organizing lectures on specific topics by experts; celebrating festivals etc. are some of the many activities of the staff club. The club promotes a very positive work atmosphere at UCE and binds all as a family. All the staff joining college would become the member of staff club automatically. Besides, the staff club also promotes the interaction among staffs in different positions and roles, so that they can develop personal and professional bond during working hour.
+Σύλλογος Προσωπικού
 
-### Aims and Objectives
+Ο σύλλογος προσωπικού σχηματίστηκε για να διευκολύνει τη θετική αλληλεπίδραση μεταξύ των διδασκόντων διαφόρων τμημάτων του κολλεγίου. Διδακτικό και μη διδακτικό προσωπικό είναι μέλη του συλλόγου. Ο σύλλογος προεδρεύεται πάντα από τον Διευθυντή. Άλλα μέλη επιλέγονται από τη γενική συνέλευση του προσωπικού που συγκαλείται ετησίως. Συμμετοχή στα μεγάλα γεγονότα που συμβαίνουν στην οικογένεια των μελών, διοργάνωση διαλέξεων σε συγκεκριμένα θέματα από ειδικούς· εορτασμός εορτών κλπ. είναι μερικές από τις πολλές δραστηριότητες του συλλόγου προσωπικού. Ο σύλλογος προωθεί μια πολύ θετική ατμόσφαιρα εργασίας στο ΠΑΚ και δεσμεύει όλους ως οικογένεια. Όλο το προσωπικό που εισέρχεται στο κολλέγιο θα γίνει μέλος του συλλόγου προσωπικού αυτόματα. Επιπλέον, ο σύλλογος προσωπικού προωθεί επίσης την αλληλεπίδραση μεταξύ του προσωπικού σε διαφορετικές θέσεις και ρόλους, ώστε να μπορούν να αναπτύξουν προσωπικό και επαγγελματικό δεσμό κατά τη διάρκεια της εργασίας.
 
-1. To facilitate positive interaction between the teachers of various departments of the college.  
-2. To provide recreational activities for the staff members.  
-3. To carry out talks on various topics for the benefit of teachers.  
-4. To conduct an annual cultural event for the staff members and their families.  
-5. To organize an annual get-together of the club members and the retired teachers.  
-6. To convene a retirement function at the end of each academic year.  
+### Στόχοι και Επιδιώξεις
 
-## Executive committee
+1. Να διευκολύνει τη θετική αλληλεπίδραση μεταξύ των διδασκόντων διαφόρων τμημάτων του κολλεγίου.  
+2. Να παρέχει ψυχαγωγικές δραστηριότητες για τα μέλη του προσωπικού.  
+3. Να διεξάγει συζητήσεις σε διάφορα θέματα προς όφελος των διδασκόντων.  
+4. Να διοργανώνει ετήσια πολιτιστική εκδήλωση για τα μέλη του προσωπικού και τις οικογένειές τους.  
+5. Να διοργανώνει ετήσια συγκέντρωση των μελών του συλλόγου και των συνταξιοδοτημένων διδασκόντων.  
+6. Να συγκαλεί τελετή συνταξιοδότησης στο τέλος κάθε ακαδημαϊκού έτους.  
 
-|     |  Name  | Designation    |
+## Εκτελεστική επιτροπή
+
+|     |  Όνομα  | Ιδιότητα    |
 | --- | --- | --- |
-| President | Dr Bisharathu Beevi A | Principal |
-| Secretary | Sruthi G S | Assistant Professor in Civil Engineering |
-| Joint Secretary | Shibu Kumar G L | Tradesman Sheetmetal |
-| Treasurer | Sumisha M S | Assistant Professor in Computer Science |
-| Executive Member | Sajitha Rani G L | Assistant Professor in Electronics and Communication |
-| Executive Member | Seena R S | Lab Assistant |
+| Πρόεδρος | Δρ. Μπισαράθου Μπεεβί Α. | Διευθυντής |
+| Γραμματέας | Σρούθι Γ. Σ. | Επίκουρος Καθηγητής Πολιτικών Μηχανικών |
+| Αναπληρωτής Γραμματέας | Σίμπου Κουμάρ Γ. Λ. | Τεχνίτης Μεταλλοεργασίας |
+| Ταμίας | Σουμίσα Μ. Σ. | Επίκουρος Καθηγητής Επιστήμης Υπολογιστών |
+| Εκτελεστικό Μέλος | Σαζίθα Ράνι Γ. Λ. | Επίκουρος Καθηγητής Ηλεκτρονικών και Επικοινωνιών |
+| Εκτελεστικό Μέλος | Σίνα Ρ. Σ. | Βοηθός Εργαστηρίου |

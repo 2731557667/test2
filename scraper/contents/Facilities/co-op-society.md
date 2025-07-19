@@ -1,3 +1,4 @@
-<h2>Co-operative Society</h2><!-- <div  style="width:620px; float:right; margin-left:20px;"><img src="images/co-opsoc.jpg" alt="Co-operative Society at UCEK" style="border-radius:2%; "></div>  -->
-<p>To cater the needs of the students and employees of the college, a co-operative society is functioning inside the campus which includes office equipments, consumables etc. A Xerox machine and STD telephone booth are also available to facilitate the need of students and staff.</p>
+<h2>Συνεταιριστική Εταιρεία</h2><!-- <div  style="width:620px; float:right; margin-left:20px;"><img src="images/co-opsoc.jpg" alt="Συνεταιριστική Εταιρεία στο API" style="border-radius:2%; "></div>  -->
+<p>Για να καλύψει τις ανάγκες των φοιτητών και των εργαζομένων του κολλεγίου, μια συνεταιριστική εταιρεία λειτουργεί εντός του campus η οποία περιλαμβάνει εξοπλισμό γραφείου, καταναλώσιμα κ.λπ. Ένα μηχάνημα φωτοτυπιών και θάλαμος τηλεφώνου STD είναι επίσης διαθέσιμα για να διευκολύνουν τις ανάγκες των φοιτητών και του προσωπικού.</p>
 </div>
+

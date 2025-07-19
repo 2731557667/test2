@@ -20,3 +20,4 @@
 <br/>
 <p>At the end of the topic, a proctored quiz is conducted. This quiz is auto evaluated comprising of multiple choice and short answer (fill blanks) questions, about 10-20 questions covering the entire topic taught. The results of this quiz are captured and students performance in the topic in assessed. </p>
 </div>
+

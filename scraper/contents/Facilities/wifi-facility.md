@@ -1,3 +1,4 @@
-<h2>Central Wi-Fi Facility</h2><!-- <div  style="width:620px; float:right; margin-left:20px;"><img src="images/co-opsoc.jpg" alt="Co-operative Society at UCEK" style="border-radius:2%; "></div>  -->
-<p>Central Wi-Fi Facility is available for both students and staff inside the campus.</p>
+<h2>Κεντρική Εγκατάσταση Wi-Fi</h2><!-- <div  style="width:620px; float:right; margin-left:20px;"><img src="images/co-opsoc.jpg" alt="Συνεταιριστική Εταιρεία στο API" style="border-radius:2%; "></div>  -->
+<p>Η κεντρική εγκατάσταση Wi-Fi είναι διαθέσιμη τόσο για φοιτητές όσο και για προσωπικό εντός του campus.</p>
 </div>
+

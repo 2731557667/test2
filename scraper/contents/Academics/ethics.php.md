@@ -11,12 +11,13 @@ ETHICS COMMITTEE
 </table>
 <h2>Responsibilities of Institutional Ethics Committee</h2>
 <p>
-ïƒ˜	To promote fair ethical policies and procedures which will maximize the likelihood of achieving good and students-oriented outcomes<br/>
-ïƒ˜	To develop best quality technical personnel with sound knowledge in basic engineering principles, technical skills, innovative research capabilities and exemplary professional conduct to use technology for the benefit of society with the highest ethical values.<br/>
-ïƒ˜	To cultivate higher values of honesty, integrity, responsibility, mutual respect for persons and property and respect for human rights. <br/>
-ïƒ˜	In order to achieve this, appropriate guidelines are framed to enforce professional ethics in the personal conduct which will be binding on all the students and staff in the college.<br/>
-ïƒ˜	To protect the rights, and well being of students.<br/>
-ïƒ˜	Create an environment within the College Campus where ethical behavior is the norm<br/>
-ïƒ˜	Enhance the worth, dignity, potential, and uniqueness of each individual within the institution and, thus, to the service of society<br/>
+ïƒ?To promote fair ethical policies and procedures which will maximize the likelihood of achieving good and students-oriented outcomes<br/>
+ïƒ?To develop best quality technical personnel with sound knowledge in basic engineering principles, technical skills, innovative research capabilities and exemplary professional conduct to use technology for the benefit of society with the highest ethical values.<br/>
+ïƒ?To cultivate higher values of honesty, integrity, responsibility, mutual respect for persons and property and respect for human rights. <br/>
+ïƒ?In order to achieve this, appropriate guidelines are framed to enforce professional ethics in the personal conduct which will be binding on all the students and staff in the college.<br/>
+ïƒ?To protect the rights, and well being of students.<br/>
+ïƒ?Create an environment within the College Campus where ethical behavior is the norm<br/>
+ïƒ?Enhance the worth, dignity, potential, and uniqueness of each individual within the institution and, thus, to the service of society<br/>
 </p>
 </div>
+

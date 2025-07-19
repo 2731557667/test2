@@ -26,15 +26,15 @@ export default async function Post() {
       src={ucekImage}
       width={1920}
       height={1080}
-      alt="Slika slajdera 1"
+      alt="Εικόνα σλάιντερ 1"
       className="h-[300px] w-full object-cover brightness-50"
     />
     <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white">
           <h1 className="text-2xl font-bold text-primary-foreground sm:text-3xl md:text-4xl lg:text-6xl">
-          Pregled razvoja (Sadržaj)
+          Προεπισκόπηση Ανάπτυξης (Περιεχόμενο)
           </h1>
           <p className="max-w-[600px] text-lg text-primary-foreground">
-            Београдски технички институт за аутоматизацију, Beograd, Srbija
+            Πολυτεχνείο Αθηνών Καινοτομίας, Αθήνα, Ελλάδα
           </p>
     </div>
    </div>

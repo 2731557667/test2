@@ -1,23 +1,75 @@
-STORE
+# Κατάστημα Εκπαιδευτικού Υλικού
 
+## Περιγραφή
 
-  <div style="font-size: 17px;">
-    <p>
-      The College Store at UCEK is a vital on-campus facility that provides academic essentials to both students and staff at reasonable prices. Conveniently located within the college premises, the store saves students the hassle of sourcing materials from outside.
-    </p>
-    <p>
-      The store offers a wide variety of items including textbooks, practical manuals, laboratory records, notebooks, and stationery. Additionally, drawing instruments and general study materials are made available, ensuring that students are well-equipped for their academic activities.
-    </p>
-    <p>
-      All supplies are priced fairly, in alignment with the institution’s student-friendly policy. The store maintains adequate stock throughout the academic year, particularly during exam and project submission periods.
-    </p>
-  </div>
+Το κατάστημα εκπαιδευτικού υλικού του ΠΑΚ παρέχει όλα τα απαραίτητα εκπαιδευτικά και τεχνικά είδη για φοιτητές και διδακτικό προσωπικό. Το κατάστημα λειτουργεί καθημερινά και προσφέρει ποικιλία προϊόντων σε προσιτές τιμές.
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">📌 Key Features</h3>
-  <ul style="margin-left: 1.5rem; font-size: 15px;">
-    <li>Availability of textbooks and academic reference materials</li>
-    <li>Notebooks, lab records, and exam-oriented stationery</li>
-    <li>Drawing tools and equipment for engineering subjects</li>
-    <li>Affordable pricing and reliable availability</li>
-    <li>Located within the college for easy student access</li>
-  </ul>
+## Διαθέσιμα Προϊόντα
+
+### Βιβλία και Εκδόσεις
+- **Εγχειρίδια μαθημάτων**: Όλα τα βιβλία των προγραμμάτων σπουδών
+- **Τεχνικά εγχειρίδια**: Εργαστηριακά βιβλία και οδηγοί
+- **Επιστημονικές εκδόσεις**: Περιοδικά και εξειδικευμένα βιβλία
+- **Λεξικά**: Τεχνικά και γλωσσικά λεξικά
+
+### Στασιονέρι και Γραφική Ύλη
+<ul style="font-size: 15px; margin-left: 1.5rem;">
+<li>Σημειωματάρια και τετράδια Α4</li>
+<li>Στυλό, μολύβια και μαρκαδόρους</li>
+<li>Φάκελα και οργανωτικά είδη</li>
+<li>Χάρτες και χαρτικά για εκτυπώσεις</li>
+<li>Διαφάνειες και υλικά παρουσιάσεων</li>
+</ul>
+
+### Τεχνικός Εξοπλισμός
+<ul style="font-size: 15px; margin-left: 1.5rem;">
+<li>Αριθμομηχανές και επιστημονικές αριθμομηχανές</li>
+<li>Όργανα σχεδίασης και εξοπλισμός για τεχνικά μαθήματα</li>
+<li>Εργαστηριακά εργαλεία και όργανα μέτρησης</li>
+<li>Ηλεκτρονικά εξαρτήματα για πειράματα</li>
+<li>Software εκπαιδευτικό με ειδικές τιμές</li>
+</ul>
+
+### Τεχνολογικά Προϊόντα
+- **USB και αποθηκευτικά μέσα**: Διάφορες χωρητικότητες
+- **Καλώδια και αξεσουάρ**: Για ηλεκτρονικές συσκευές
+- **Ηλεκτρονικά εξαρτήματα**: Για πειραματικές εργασίες
+- **Μικροελεγκτές**: Arduino, Raspberry Pi και σχετικά modules
+
+## Υπηρεσίες
+
+### Παραγγελίες
+- **Online παραγγελίες**: Μέσω του site του κολλεγίου
+- **Τηλεφωνικές παραγγελίες**: +30 21 3098 9246
+- **Προπαραγγελίες**: Για εξειδικευμένα είδη
+
+### Εκτυπώσεις
+- **Φωτοαντίγραφα**: Α4, Α3 σε οικονομικές τιμές
+- **Εκτυπώσεις**: Μαύρο-άσπρο και έγχρωμο
+- **Βιβλιοδεσία**: Σπιράλ και βιβλιοδεσία projects
+- **Πλαστικοποίηση**: Για έγγραφα και πιστοποιητικά
+
+### Ειδικές Υπηρεσίες
+- **Εκπτώσεις φοιτητών**: 10-15% σε επιλεγμένα προϊόντα
+- **Bulk παραγγελίες**: Για τμήματα και εργαστήρια
+- **Τεχνική υποστήριξη**: Για εκπαιδευτικό software
+
+## Ώρες Λειτουργίας
+
+- **Δευτέρα - Παρασκευή**: 08:30 - 17:00
+- **Σάββατο**: 09:00 - 14:00
+- **Κυριακή**: Κλειστό
+
+## Επικοινωνία
+
+**Διεύθυνση**: Ισόγειο, Κεντρικό Κτίριο, ΠΑΚ
+**Τηλέφωνο**: +30 21 3098 9246
+**Email**: store@api.edu.gr
+**Υπεύθυνος**: Γιάννης Δημητρίου
+
+## Πληρωμές
+
+- **Μετρητά**
+- **Πιστωτικές κάρτες**: Visa, Mastercard
+- **Φοιτητική κάρτα**: Προπληρωμένο υπόλοιπο
+- **Εταιρικοί λογαριασμοί**: Για τμήματα του κολλεγίου

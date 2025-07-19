@@ -20,32 +20,32 @@ export function HeroSlider() {
   // Warsaw University of Technology image URL
   const warsawUniversityImageUrl = "https://urk.edu.pl/m/YDHEYVjU-WSwnDHV1RwMMDl91GVU6AwRdbgNSICwWBxwrfABDPThZFxJHZRNZR0FVBCVWK2U9FVsrVRk1LSZNXUdhQGw_Mk8AEkcjLgRQXWgcOUcUIANSGW5fGSogWFhNGSEqAn89SBRsRHUjF1lTFVJuUBloTlJWI1cENCoWDgoFcU8RPzJPAGxEdT8XUFFoASgXTXtOUkE1SRVkf1gLAhY0EBF9dUsaNA11dVQVSQ/nr_1.webp";
   
-  // Create 5 carousel items with different titles but the same image
+  // Create 5 carousel items with different titles and appropriate images
   const customSlides = [
     { 
       image: warsawUniversityImageUrl, 
-      title: "Vodeći istraživački tip", 
-      description: "Vodeći istraživački univerzitet u Poljskoj" 
+      title: "Κορυφαίο Ερευνητικό Κέντρο", 
+      description: "Κορυφαίο πολυτεχνείο καινοτομίας στην Ελλάδα" 
     },
     { 
       image: "https://www.polsl.pl/wp-content/uploads/2025/05/slider_3.jpg", 
-      title: "Napredna istraživanja", 
-      description: "Inovativne tehnologije i istraživanja" 
+      title: "Προηγμένη Έρευνα", 
+      description: "Καινοτόμες τεχνολογίες και έρευνα" 
     },
     { 
       image: "https://urk.edu.pl/m/6DHEGWDgnZwM8ASEmGlJTUhtuDwM4FxUZblQVIiwbPQYTcU8CYmEMR39EdT8XQ1wVUm5THiYHA2ljTAAqKhsGM1hhKRwhIlofJwsLYClSWlAEJUYfFk0DWS1TFCM3WE5NEToZVnNtGh4vATkQG1ZGXA04agQmCxRQPhcaNiJYTk0bMhtUc20aFiBKe20VWFpDGiNZGy8QUg9uShwvIR8QTVtxAUohMhpJbAE6LhFSFhtKP1wNL0BKFy9BQX93ShpZR2NXTg/main_market_slider.webp", 
-      title: "Međunarodna saradnja", 
-      description: "Globalno partnerstvo u obrazovanju" 
+      title: "Διεθνής Συνεργασία", 
+      description: "Παγκόσμια εταιρικά σχήματα στην εκπαίδευση" 
     },
     { 
       image: "https://urk.edu.pl/m/sDHEGWDgnZwM8ASEmGlJTUhtuDwM4FxUZblQVIiwbPQYTcU8CZGYBQXlEdT8XQ1wVUm5THiYHA2ljTAAqKhsGM1hhKRwhIlofJwsLYClSWlAEJUYfFk0DWS1TFCM3WE5NEToZVnNtGhgvBSc6BWhZVgITBCh7W0IFEw9AdmsQEghVf1dfMDlfUXRKMiFUGxZUByJBBSUOHFA-G0pkNhYLCxIhVx9zI0EDK0ptbR9aVVANbhlVOQsKUG4DUiU9S1tdRytDA2F1RQ/kampus_maj_1_1920_600.webp", 
-      title: "Akademska izvrsnost", 
-      description: "Težnja ka znanju i inovacijama" 
+      title: "Ακαδημαϊκή Αριστεία", 
+      description: "Επιδίωξη της γνώσης και της καινοτομίας" 
     },
     { 
       image: "https://lh3.googleusercontent.com/-eYfrt0LhZxA/VDJ0i6_2OII/AAAAAAAArxk/pM84NH1eSuc/s912/SvecaniPrijemBrucosaPFB-060.JPG", 
-      title: "Budućnost tehnologije", 
-      description: "Tehnologija koja oblikuje sutra" 
+      title: "Μέλλον της Τεχνολογίας", 
+      description: "Τεχνολογία που διαμορφώνει το αύριο" 
     }
   ];
 
@@ -88,7 +88,7 @@ export function HeroSlider() {
           <button 
             onClick={() => api?.scrollPrev()}
             className="bg-black/30 hover:bg-black/50 text-white rounded-full p-2 backdrop-blur-sm transition-all"
-            aria-label="Prethodna slika"
+            aria-label="Προηγούμενη εικόνα"
           >
             <ChevronLeft className="h-6 w-6" />
           </button>
@@ -98,7 +98,7 @@ export function HeroSlider() {
           <button 
             onClick={() => api?.scrollNext()}
             className="bg-black/30 hover:bg-black/50 text-white rounded-full p-2 backdrop-blur-sm transition-all"
-            aria-label="Sledeća slika"
+            aria-label="Επόμενη εικόνα"
           >
             <ChevronRight className="h-6 w-6" />
           </button>
@@ -117,7 +117,7 @@ export function HeroSlider() {
                     ? "bg-white w-6" 
                     : "bg-white/50 hover:bg-white/80"
                 }`}
-                aria-label={`Idi na sliku ${index + 1}`}
+                aria-label={`Μετάβαση στην εικόνα ${index + 1}`}
               ></button>
             ))}
         </div>
@@ -130,7 +130,7 @@ export function HeroSlider() {
                 src="https://img95.699pic.com/photo/50123/0481.jpg_wh860.jpg"
                 width={1920}
                 height={1080}
-                alt="Београдски технички институт за аутоматизацију"
+                alt="Πολυτεχνείο Αθηνών Καινοτομίας"
                 className="h-[75vh] w-full object-cover transition-transform duration-500"
                 priority={true}
                 unoptimized={true}
@@ -138,15 +138,15 @@ export function HeroSlider() {
               <div className="absolute inset-0 flex flex-col items-center justify-center space-y-4 bg-gradient-to-t from-black/70 to-transparent">
                 <div className="space-y-4 text-center text-white max-w-4xl px-6 animate-fadeIn">
                   <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight">
-                    {"Београдски технички институт за аутоматизацију"}
+                    {"Πολυτεχνείο Αθηνών Καινοτομίας"}
                   </h2>
-                  <p className="text-xl md:text-2xl font-light">Beograd, Srbija</p>
+                  <p className="text-xl md:text-2xl font-light">Αθήνα, Ελλάδα</p>
                   <div className="pt-4">
                     <Link 
                       href="/about" 
                       className="inline-flex items-center justify-center rounded-md bg-white px-6 py-3 text-lg font-medium text-black shadow transition-colors hover:bg-blue-600 hover:text-white"
                     >
-                      Saznaj više
+                      Μάθετε περισσότερα
                     </Link>
                   </div>
                 </div>
@@ -178,7 +178,7 @@ export function HeroSlider() {
                         href="/programs" 
                         className="inline-flex items-center justify-center rounded-md bg-white px-6 py-3 text-lg font-medium text-black shadow transition-colors hover:bg-blue-600 hover:text-white"
                       >
-                        Istražite programe
+                        Εξερευνήστε προγράμματα
                       </Link>
                     </div>
                   </div>

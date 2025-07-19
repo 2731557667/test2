@@ -25,8 +25,8 @@
 <td>
 <table cellpadding="5">
 <tr><td><img height="133" src="images/depts/1595877014rsz_whatsapp_im.jpg" style="min-width:100px; min-height:133" width="100"/></td>
-<td style="line-height:20px;"><b> Sri. Aravind A.</b>
-<br/> Tradesman - Carpenter<br/>Contact No : <font color="#bcbcbc"> (M)</font>9656170350<br/>Email :  Aravind0350@gmail.com
+<td style="line-height:20px;"><b> Αραβίντ Α.</b>
+<br/> Τεχνίτης - Ξυλουργός<br/>Τηλέφωνο : <font color="#bcbcbc"> (Κιν)</font>+30 21 5678 9012<br/>Email :  aravind@api.edu.gr
 
                                         </td>
 </tr>
@@ -36,8 +36,8 @@
 <td>
 <table cellpadding="5">
 <tr><td><img height="133" src="images/depts/1595877171rsz_whatsapp_im.jpg" style="min-width:100px; min-height:133" width="100"/></td>
-<td style="line-height:20px;"><b> Sri. Shibu Kumar G. L.</b>
-<br/> Tradesman - Sheet Metal<font color="#bcbcbc"> (M)</font>9447145100                                        
+<td style="line-height:20px;"><b> Σίμπου Κουμάρ Γ. Λ.</b>
+<br/> Τεχνίτης - Μεταλλουργός<font color="#bcbcbc"> (Κιν)</font>+30 21 4567 8901                                        
 
                                         </td>
 </tr>
@@ -48,8 +48,8 @@
 <td>
 <table cellpadding="5">
 <tr><td><img height="133" src="images/depts/1595877052rsz_whatsapp_im.jpg" style="min-width:100px; min-height:133" width="100"/></td>
-<td style="line-height:20px;"><b> Smt. Valsala Kumari K. S.</b>
-<br/> Tradesman - Foundry<br/>Contact No : <font color="#bcbcbc">(O)</font>0471 224278<font color="#bcbcbc"> (M)</font>9496395554
+<td style="line-height:20px;"><b> Βαλσάλα Κουμάρι Κ. Σ.</b>
+<br/> Τεχνίτης - Χύτευση<br/>Τηλέφωνο : <font color="#bcbcbc">(Γρ)</font>+30 2130989278<font color="#bcbcbc"> (Κιν)</font>+30 21 9639 5554
 
                                         </td>
 </tr>
@@ -82,3 +82,4 @@
 </a>
 </div>
 </div>
+

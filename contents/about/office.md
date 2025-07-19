@@ -1,25 +1,86 @@
-Office
+Γραμματεία
 
-<p>Administrativna kancelarija Београдски технички институт за аутоматизацију radi pod direktnim nadzorom uprave centra i sastoji se od sekretara, administrativnog službenika i višeg asistenta. Sva pitanja vezana za osoblje i studente obrađuju se i čuvaju ovde.</p>
-<p><strong><h2>Radno vreme kancelarije</h2></strong></p><h4>
-<table border="0" cellpadding="8">
-<tr><td>1</td><td>Ponedeljak do Petak</td><td>08:00 do 16:00</td></tr>
-<tr><td>2</td><td>Vikendi i praznici</td><td>Zatvoreno</td></tr>
-</table>
-<p><strong><h2>Dostupne usluge</h2></strong></p><h4>
-<table border="0" cellpadding="8">
-<tr><td>1</td><td>Akademske:</td><td>Upis, izdavanje potvrda, vođenje studentske evidencije, stipendije i sve druge usluge vezane za studente.</td></tr>
-<tr><td>2</td><td>Kadrovske:</td><td>Zapošljavanje, promocije, vođenje evidencije zaposlenih, godišnji izveštaji i druge kadrovske usluge.</td></tr>
-<tr><td>3</td><td>Računovodstvo:</td><td>Naplate školarina, vođenje finansija, izveštaji, obračun plata i sve druge računovodstvene usluge.</td></tr>
-</table>
-<p><b>PROFIL OSOBLJA KANCELARIJE</b></p>
+# Γραμματεία και Διοικητικό Προσωπικό
 
-**OFFICE STAFF PROFILE**
+Η Γραμματεία του Πολυτεχνείου Αθηνών Καινοτομίας αποτελεί το κεντρικό σημείο εξυπηρέτησης για όλους τους φοιτητές, καθηγητές και επισκέπτες.
 
-| **#** | **Ime i prezime** | **Pozicija** | **Kontakt telefon** |
-| --- | --- | --- | --- |
-| 1   | Jovana Petrović | Sekretar | +381 11 1111111 |
-| 2   | Marko Ilić | Administrativni službenik | +381 11 2222222 |
-| 3   | Ana Nikolić | Viši asistent | +381 11 3333333 |
-| 4   | Nikola Janković | Asistent | +381 11 4444444 |
-| 5   | Ivana Stojanović | Asistent | +381 11 5555555 |
+## Ώρες Λειτουργίας
+
+- **Δευτέρα - Πέμπτη**: 08:00 - 16:00
+- **Παρασκευή**: 08:00 - 15:00
+- **Σάββατο - Κυριακή**: Κλειστά
+
+## Διοικητικό Προσωπικό
+
+| Α/Α | Όνομα | Θέση | Τηλέφωνο |
+|-----|-------|------|-----------|
+| 1   | Μαρία Παπαδοπούλου | Προϊσταμένη Γραμματείας | +30 2130989243 |
+| 2   | Γιάννης Αλεξάνδρου | Διοικητικός Υπάλληλος | +30 2130989244 |
+| 3   | Ελένη Κωνσταντίνου | Γραμματέας | +30 2130989245 |
+| 4   | Νίκος Παπαγιάννης | Βοηθός | +30 2130989246 |
+
+## Υπηρεσίες Γραμματείας
+
+### Φοιτητικές Υπηρεσίες
+- Εγγραφή νέων φοιτητών
+- Έκδοση πιστοποιητικών σπουδών
+- Βεβαιώσεις φοίτησης
+- Αιτήσεις για υποτροφίες
+- Διαχείριση ακαδημαϊκών αρχείων
+
+### Διδακτικό Προσωπικό
+- Διοικητική υποστήριξη καθηγητών
+- Οργάνωση συναντήσεων και εκδηλώσεων
+- Διαχείριση εξοπλισμού
+- Συντονισμός ωρολογίων προγραμμάτων
+
+### Επισκέπτες
+- Ενημέρωση για προγράμματα σπουδών
+- Καθοδήγηση στους χώρους του πολυτεχνείου
+- Συνεννόηση για συναντήσεις
+
+## Τμήματα Γραμματείας
+
+### Τμήμα Εισαγωγών
+**Υπεύθυνη**: Μαρία Παπαδοπούλου
+- Διαδικασίες εισαγωγής
+- Πανελλήνιες εξετάσεις
+- Μεταγραφές
+
+### Τμήμα Σπουδών
+**Υπεύθυνος**: Γιάννης Αλεξάνδρου
+- Ακαδημαϊκό πρόγραμμα
+- Εξεταστικές περίοδοι
+- Διπλωματικές εργασίες
+
+### Τμήμα Διοικητικό
+**Υπεύθυνη**: Ελένη Κωνσταντίνου
+- Προσωπικό
+- Οικονομικά θέματα
+- Συμβάσεις
+
+## Επικοινωνία
+
+**Γενική Γραμματεία**
+- Τηλέφωνο: +30 2130989240
+- Email: secretary@api.edu.gr
+- Fax: +30 2130989241
+
+**Ταχυδρομική Διεύθυνση**
+Πολυτεχνείο Αθηνών Καινοτομίας
+Λεωφόρος Αλεξάνδρας 205
+Αθήνα, Τ.Κ. 115 23
+Ελλάδα
+
+## Online Υπηρεσίες
+
+- **Πλατφόρμα Φοιτητών**: my.api.edu.gr
+- **Email Υποστήριξη**: support@api.edu.gr
+- **Τεχνική Υποστήριξη**: it-help@api.edu.gr
+
+## Χρήσιμες Πληροφορίες
+
+- Όλες οι αιτήσεις πρέπει να υποβάλλονται με την ταυτότητα/διαβατήριο
+- Για πιστοποιητικά απαιτείται προκαταβολή 48 ωρών
+- Η γραμματεία δέχεται πληρωμές με μετρητά ή κάρτα
+- Για τηλεφωνικές πληροφορίες καλέστε 08:00-12:00

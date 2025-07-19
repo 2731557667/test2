@@ -1,5 +1,6 @@
-<h2>ISTORIJA</h2>
-<h3>Naš Centar</h3>
-<p>Београдски технички институт за аутоматизацију (BTIA) osnovan je 2020. godine u Beogradu, sa ciljem da pruži visokokvalitetno online obrazovanje u Srbiji i regionu. Centar je nastao kao odgovor na savremene izazove digitalizacije i potrebu za dostupnim obrazovanjem bez geografskih ograničenja.</p>
-<p>BTIA je brzo postao prepoznatljiv po inovativnim programima, saradnji sa vodećim stručnjacima i kompanijama, kao i po izuzetnoj podršci studentima. Naša misija je da razvijamo znanje, veštine i profesionalizam kod mladih ljudi, pripremajući ih za uspeh u savremenom društvu.</p>
-<p>Centar organizuje brojne simpozijume, radionice i takmičenja, a naši studenti redovno osvajaju nagrade na nacionalnim i međunarodnim događajima. BTIA je danas lider u online obrazovanju u Srbiji.</p>
+<h2>ΙΣΤΟΡΙΑ</h2>
+<h3>Το Ίδρυμά μας</h3>
+<p>Το Πολυτεχνείο Αθηνών Καινοτομίας (API) ιδρύθηκε το 2020 στην Αθήνα, με στόχο να παρέχει υψηλής ποιότητας online εκπαίδευση στην Ελλάδα και την περιοχή. Το Ίδρυμα δημιουργήθηκε ως απάντηση στις σύγχρονες προκλήσεις της ψηφιοποίησης και την ανάγκη για προσβάσιμη εκπαίδευση χωρίς γεωγραφικούς περιορισμούς.</p>
+<p>Το API έγινε γρήγορα αναγνωρίσιμο για τα καινοτόμα προγράμματά του, τη συνεργασία με κορυφαίους ειδικούς και εταιρείες, καθώς και για την εξαιρετική υποστήριξη στους φοιτητές. Η αποστολή μας είναι να αναπτύσσουμε γνώσεις, δεξιότητες και επαγγελματισμό στους νέους ανθρώπους, προετοιμάζοντάς τους για επιτυχία στη σύγχρονη κοινωνία.</p>
+<p>Το Ίδρυμα οργανώνει πολλά συμπόσια, εργαστήρια και διαγωνισμούς, και οι φοιτητές μας κερδίζουν τακτικά βραβεία σε εθνικές και διεθνείς εκδηλώσεις. Το API είναι σήμερα ηγέτης στην online εκπαίδευση στην Ελλάδα.</p>
+

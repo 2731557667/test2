@@ -7,9 +7,9 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Београдски технички институт за аутоматизацију - Virtuelna Škola Srbije",
-  keywords: "BTIA, Virtuelna Škola Srbije, Београдски технички институт за аутоматизацију, srpsko obrazovanje, virtuelno obrazovanje, online učenje, Srbija, Beograd, virtuelna škola",
-  description: "Zvanični sajt Savremenog Srpskog Centra za Znanje (Virtuelna Škola Srbije), koji nudi visokokvalitetne programe virtuelnog obrazovanja u Srbiji.",
+  title: "Πολυτεχνείο Αθηνών Καινοτομίας - API",
+  keywords: "API, Πολυτεχνείο Αθηνών Καινοτομίας, ελληνική εκπαίδευση, τεχνολογία, καινοτομία, Αθήνα, πανεπιστήμιο, πολυτεχνείο",
+  description: "Επίσημος ιστότοπος του Πολυτεχνείου Αθηνών Καινοτομίας (API), που προσφέρει υψηλής ποιότητας προγράμματα εκπαίδευσης στην τεχνολογία και την καινοτομία στην Αθήνα, Ελλάδα.",
   icons: [
     {
       rel: "icon",
@@ -38,7 +38,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="sr">
+    <html lang="el">
       <body className={inter.className}>{children}</body>
       <GoogleAnalytics gaId="G-JW5TYZ3JC2" />
     </html>

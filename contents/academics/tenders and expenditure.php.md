@@ -7,7 +7,7 @@
 <p>
 
 1)  Proposal for LCD Colour Projector in all classrooms - This technology has opened up the possibility for PowerPoint to make information more accessible, guided notes to allow students more time to practice new math skills, and videos and pictures that can help students make connections between math and the real world<br/>
-2)  Proposal for CCTV in all classrooms â€“ Benefits includes keep stock of every event, Discipline is no more an issue, Teachersâ€™ behavior as well as Students can be monitored, helps in investigation, Emergencies can be tackled, Intrudes and offenders can be easily caught and helps avert ragging<br/>
+2)  Proposal for CCTV in all classrooms â€?Benefits includes keep stock of every event, Discipline is no more an issue, Teachersâ€?behavior as well as Students can be monitored, helps in investigation, Emergencies can be tackled, Intrudes and offenders can be easily caught and helps avert ragging<br/>
 3)  Proposal for 10 laptops - The challenge is a good connectivity and engagement for the disadvantaged students to use laptops for online classes<br/>
 <p>
 </p></p></div>

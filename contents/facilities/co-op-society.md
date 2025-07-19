@@ -1,24 +1,42 @@
-CO-OPERATIVE SOCIETY
+ΣΥΝΕΤΑΙΡΙΣΤΙΚΗ ΕΤΑΙΡΕΙΑ
 
 
   <p style="font-size: 15px;">
-    The Co-operative Society at UCEK plays a key role in meeting the academic and everyday needs of students and staff by providing essential supplies and services on campus. Operated under the Co-operative Act with a transparent and student-oriented approach, it offers a wide selection of items such as stationery, notebooks, drawing tools, lab records, exam materials, office consumables, and general utility products at affordable prices. Facilities like a Xerox machine are provided for documentation needs, especially during exams and project work. The society is overseen by a committee of staff and student representatives, ensuring efficient, student-focused management.
+    Η Συνεταιριστική Εταιρεία στο API παίζει βασικό ρόλο στην κάλυψη των ακαδημαϊκών και καθημερινών αναγκών των φοιτητών και του προσωπικού παρέχοντας βασικά προμήθειες και υπηρεσίες στον campus. Λειτουργεί σύμφωνα με τον Συνεταιριστικό Νόμο με διαφανή και φοιτητοκεντρική προσέγγιση, προσφέρει μεγάλη ποικιλία αντικειμένων όπως γραφική ύλη, τετράδια, εργαλεία σχεδίασης, εργαστηριακά αρχεία, εξεταστικό υλικό, καταναλώσιμα γραφείου και γενικά προϊόντα χρησιμότητας σε προσιτές τιμές. Παρέχονται εγκαταστάσεις όπως μηχάνημα φωτοτυπιών για ανάγκες τεκμηρίωσης, ειδικά κατά τη διάρκεια εξετάσεων και εργασιών. Η εταιρεία εποπτεύεται από επιτροπή προσωπικού και φοιτητικών εκπροσώπων, εξασφαλίζοντας αποδοτική, φοιτητοκεντρική διαχείριση.
 
   </p>
 
 </div>
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size:18px;">📌 Highlights</h3>
+  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size:18px;">📌 Κύρια Σημεία</h3>
   <ul style="margin-left: 1.5rem;font-size:15px;">
-    <li>Affordable prices for students and staff</li>
-    <li>Stationery and exam materials available year-round</li>
-    <li>Photocopying (Xerox) service for assignments, notes, and records</li>
-    <li>Prompt service and well-maintained inventory</li>
+    <li>Προσιτές τιμές για φοιτητές και προσωπικό</li>
+    <li>Γραφική ύλη και εξεταστικό υλικό διαθέσιμα όλο το χρόνο</li>
+    <li>Υπηρεσία φωτοτυπιών για εργασίες, σημειώσεις και αρχεία</li>
+    <li>Άμεση εξυπηρέτηση και καλά συντηρημένο απόθεμα</li>
   </ul>
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50;font-size:18px;">🕒 Working Hours</h3>
+  <h3 style="margin-top: 1.5rem; color: #2c3e50;font-size:18px;">🕒 Ώρες Λειτουργίας</h3>
   <ul style="margin-left: 1.5rem;font-size:15px;">
-    <li><strong>Monday to Friday:</strong> 9:30 AM to 4:30 PM</li>
-    <li><strong>Saturday:</strong> 9:30 AM to 1:00 PM</li>
-    <li><strong>Closed on:</strong> Sundays and Government Holidays</li>
+    <li>Δευτέρα - Παρασκευή: 08:00 ΠΜ - 05:30 ΜΜ</li>
+    <li>Σάββατο: 09:00 ΠΜ - 02:00 ΜΜ</li>
+    <li>Κυριακή: Κλειστό</li>
+    <li>Ειδικές ώρες κατά τη διάρκεια εξετάσεων</li>
   </ul>
+
+  <h3 style="margin-top: 1.5rem; color: #2c3e50;font-size:18px;">📦 Διαθέσιμα Προϊόντα</h3>
+  <ul style="margin-left: 1.5rem;font-size:15px;">
+    <li>Γραφική ύλη (στυλό, μολύβια, γόμες, χάρακες)</li>
+    <li>Τετράδια και μπλοκ γραφής</li>
+    <li>Εργαστηριακά αρχεία και φακέλους</li>
+    <li>Εξεταστικό υλικό και απαντητικά</li>
+    <li>Εκτυπωτικό χαρτί και αναλώσιμα</li>
+    <li>Βασικά καταναλώσιμα γραφείου</li>
+  </ul>
+
+  <p style="font-size: 15px; margin-top: 1.5rem;">
+    <strong>Επικοινωνία:</strong><br/>
+    Συνεταιριστική Εταιρεία API<br/>
+    Τηλέφωνο: +30 2130989242<br/>
+    Email: coop@api.edu.gr
+  </p>

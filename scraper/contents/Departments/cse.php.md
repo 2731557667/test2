@@ -13,12 +13,12 @@
 
 </p>
 <br/><h2>Vision</h2>
-<p>To be in the frontier of the Computer Science and Engineering and to produce globally competent professionals with moral values to become part of the industry and research organizations at the national and international levels</p>
+<p>To be in the frontier of the ¦¥¦Ð¦É¦Ò¦Ó?¦Ì¦Ç ¦´¦Ð¦Ï¦Ë¦Ï¦Ã¦É¦Ò¦Ó?¦Í ¦Ê¦Á¦É ¦¬¦Ç¦Ö¦Á¦Í¦É¦Ê? and to produce globally competent professionals with moral values to become part of the industry and research organizations at the national and international levels</p>
 <br/><h2>Mission</h2>
-<p>â€¢	To produce highly qualified and motivated graduates through a rigorous curriculum of theory and application that develops the ability to solve problems, individually and in teams. </p>
-<p>â€¢	Providing a strong theoretical and practical background across the computer science discipline with an emphasis on software development. </p>
-<p>â€¢	Inculcating professional behaviour, strong ethical values, innovative research capabilities and leadership abilities. </p>
-<p>â€¢	Creating knowledge of fundamental principles and innovative technologies through research within the core areas of computer science and also in inter-disciplinary topics. </p>
+<p>â€?To produce highly qualified and motivated graduates through a rigorous curriculum of theory and application that develops the ability to solve problems, individually and in teams. </p>
+<p>â€?Providing a strong theoretical and practical background across the computer science discipline with an emphasis on software development. </p>
+<p>â€?Inculcating professional behaviour, strong ethical values, innovative research capabilities and leadership abilities. </p>
+<p>â€?Creating knowledge of fundamental principles and innovative technologies through research within the core areas of computer science and also in inter-disciplinary topics. </p>
 <br/><h2>Programs Offered</h2><br/>
 <table style="width:800px">
 <tr>
@@ -94,3 +94,4 @@
 </div>
 </div>
 </div>
+

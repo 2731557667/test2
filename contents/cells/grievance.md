@@ -1,33 +1,33 @@
-Grievances Redressal Cell
+Τμήμα Επίλυσης Παραπόνων
 
-Grievances Redressal Cell is formed by the Head of the Institution to solve the complaints /suggestion received from students and subsequent remedial measures adopted.
-The grievances at departmental level are dealt by the concerned mentors and class coordinators. Unresolved grievances at the departmental level are referred to the Grievance Redressal Cell of the institution. The institution has suggestion boxes which are set up in main location of the campus regularly. The grievances are collected from the suggestion boxes and respective mail id and are forwarded to the cell for appropriate action.
+Το Τμήμα Επίλυσης Παραπόνων δημιουργήθηκε από τον Διευθυντή του Ιδρύματος για την επίλυση παραπόνων/προτάσεων που λαμβάνονται από φοιτητές και τα ακόλουθα διορθωτικά μέτρα που υιοθετούνται.
+Τα παράπονα σε τμηματικό επίπεδο αντιμετωπίζονται από τους αντίστοιχους μέντορες και συντονιστές τάξεων. Τα άλυτα παράπονα σε τμηματικό επίπεδο παραπέμπονται στο Τμήμα Επίλυσης Παραπόνων του ιδρύματος. Το ίδρυμα έχει κουτιά προτάσεων που είναι τοποθετημένα σε κεντρικές τοποθεσίες του campus τακτικά. Τα παράπονα συλλέγονται από τα κουτιά προτάσεων και τα αντίστοιχα email και προωθούνται στο τμήμα για την κατάλληλη ενέργεια.
 
-## Committee for Students
+## Επιτροπή για Φοιτητές
 
-| # | Name | Contact Number |
+| # | Όνομα | Αριθμός Επικοινωνίας |
 | -- | -- | -- |
-1 | Dr. Bisharathu Beevi A (Principal)| 9496102279
-2 | Smt. Shiny A Moses | 9495541174
-3 | Smt. Krishna J S | 8893788093
-4 | Smt. Aswathy V | 9846835893
-5 | Smt. Sradha R. Kurup | 9400783434
+1 | Δρ. Αναστάσιος Παπαδόπουλος (Διευθυντής)| +30 2130989242
+2 | Δρ. Μαρία Αθανασίου | +30 2134567890
+3 | Δρ. Νικόλαος Δημητρίου | +30 2145678901
+4 | Δρ. Ελένη Γεωργίου | +30 2156789012
+5 | Δρ. Κωνσταντίνος Παπαδάκης | +30 2167890123
 
-## Committee for Staffs
+## Επιτροπή για Προσωπικό
 
-| # | Member Name | Contact Number
+| # | Όνομα Μέλους | Αριθμός Επικοινωνίας
 | -- | -- | -- |
-1 | Dr. Bisharathu Beevi A (Principal) | 9496102279
-2 | Smt. Mini K P | 8281556762
-3 | Smt. Sheeja Kumari T | 9496106342
-4 | Smt. Saina AR | 8921890014
-5 | Smt. Rajimol V | 9745453267
-6 | Smt. Anu S Ram | 9562212747
-7 | Smt. Asha K S | 9496252692
-8 | Smt. Valsala Kumari K S | 9496395554
+1 | Δρ. Αναστάσιος Παπαδόπουλος (Διευθυντής) | +30 2130989242
+2 | Δρ. Σοφία Βασιλείου | +30 2178901234
+3 | Δρ. Χρήστος Ανδρέου | +30 2189012345
+4 | Δρ. Αγγελική Νικολάου | +30 2190123456
+5 | Δρ. Δημήτριος Κωνσταντίνου | +30 2101234567
+6 | Δρ. Κατερίνα Μιχαηλίδου | +30 2112345678
+7 | Δρ. Ιωάννης Στεφανίδης | +30 2123456789
+8 | Δρ. Βασιλική Χριστοδούλου | +30 2134567890
 
 
 <h2><p align="center">
-<a href="https://forms.gle/xLgfCA5zfd5tr24D8">Grievance Redressal Form for Students</a>
+<a href="https://forms.gle/xLgfCA5zfd5tr24D8">Φόρμα Επίλυσης Παραπόνων για Φοιτητές</a>
 </p>
 </h2>

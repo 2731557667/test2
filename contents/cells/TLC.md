@@ -1,22 +1,23 @@
-Teaching and Learning Cell
-The Cell has the main intention of providing a conducive environment for teaching and learning in the institution. It organizes programmes and add-on courses to motivate teachers and students and groom them into professionals of the highest professional and personal quality. It has been launched with the intent to improve quality in educational development at all stages of education by focussing on the preparation of teachers, their working conditions in classrooms and colleges and to gear their continuous professional development to ensure the best talent made available in the country to shape a future generation.
+Κέντρο Διδασκαλίας και Μάθησης
 
-## Vision
+Το Κέντρο έχει ως κύρια πρόθεση την παροχή ευνοϊκού περιβάλλοντος για τη διδασκαλία και τη μάθηση στο ίδρυμα. Διοργανώνει προγράμματα και συμπληρωματικά μαθήματα για την παρακίνηση διδασκόντων και φοιτητών και την καλλιέργειά τους σε επαγγελματίες υψηλότερης επαγγελματικής και προσωπικής ποιότητας. Έχει ξεκινήσει με στόχο τη βελτίωση της ποιότητας στην εκπαιδευτική ανάπτυξη σε όλα τα στάδια της εκπαίδευσης εστιάζοντας στην προετοιμασία των διδασκόντων, τις συνθήκες εργασίας τους στις αίθουσες διδασκαλίας και τα κολλέγια και στην προώθηση της συνεχούς επαγγελματικής τους ανάπτυξης για να διασφαλιστεί ότι το καλύτερο ταλέντο είναι διαθέσιμο στη χώρα για να διαμορφώσει μια μελλοντική γενιά.
 
-To be a Cell for facilitating studies, and implementation of innovative teaching-learning methodologies/ technologies under teaching-learning processes of the Institute, in better pursuit of quality for higher technical education to the level of world class education in the service of the nation.
+## Όραμα
 
-## Mission
+Να γίνει Κέντρο διευκόλυνσης μελετών και εφαρμογής καινοτόμων μεθοδολογιών/τεχνολογιών διδασκαλίας-μάθησης υπό τις διαδικασίες διδασκαλίας-μάθησης του Ιδρύματος, σε καλύτερη επιδίωξη ποιότητας για την ανώτερη τεχνική εκπαίδευση σε επίπεδο παγκόσμιας τάξης εκπαίδευσης στην υπηρεσία του έθνους.
 
-1. Conducting Faculty Development Programmes.  
-2. Conducting Interactive sessions on ideas/thoughts/projects/personal experiences in education.  
-3. Peer appraisal of research projects.  
-4. Organizing orientation / training programmes for new recruits.  
-5. Conducting classes for Personality Development and Communication Skills.  
-6. Providing guidance to students for various competitive examinations.  
+## Αποστολή
+
+1. Διεξαγωγή Προγραμμάτων Ανάπτυξης Διδακτικού Προσωπικού.  
+2. Διεξαγωγή διαδραστικών συνεδριών σχετικά με ιδέες/σκέψεις/έργα/προσωπικές εμπειρίες στην εκπαίδευση.  
+3. Αμοιβαία αξιολόγηση ερευνητικών έργων.  
+4. Διοργάνωση προγραμμάτων προσανατολισμού/εκπαίδευσης για νέους υπαλλήλους.  
+5. Διεξαγωγή μαθημάτων για Ανάπτυξη Προσωπικότητας και Επικοινωνιακές Δεξιότητες.  
+6. Παροχή καθοδήγησης σε φοιτητές για διάφορες εξετάσεις ανταγωνισμού.  
 
   
 
-| Member | Department |
+| Μέλος | Τμήμα |
 | --- | --- |
-| TBA | TBA |
-| TBA | TBA |
+| Κα. Πριγκιπέσσα Κ. Χ. | ΦΥΣΙΚΗ |
+| Κα. Σουμά Χ. Σ. | ΕΠΙΣΤΗΜΗ ΥΠΟΛΟΓΙΣΤΩΝ |

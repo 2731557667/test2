@@ -3,18 +3,18 @@
 <p>Purchase Committees (PC) is established and managed by the head of the Institute and they have the ultimate responsibility for the successful outcome of the evaluation process. For all PC meetings, the head of the organization should act as person with a non-voting role.</p>
 <p></p>
 <h2>The roles and responsibilities of the PC should include:</h2>
-<p>â€¢	To analyze quotations provided by the logistics department, and provide recommendation for approval</p>
-<p>â€¢	To ensure all documentation is accurately completed</p>
-<p>â€¢	To ensure that the supplies/services quoted for comply with what was requested</p>
-<p>â€¢	Seek clarification from suppliers/service providers where necessary</p>
-<p>â€¢	The PC should also be assigned a role within the supplier pre-preprocessing process</p>
-<p>â€¢	In certain contexts, it may be appropriate for some or all members of the PC to be directly involved in the collection of quotations</p>
-<p>â€¢	Ensuring proportionality, transparency, accountability and fairness in the procurement process</p>
-<p>â€¢	Ensuring all relevant documentation is prepared prior to PC meeting</p>
-<p>â€¢	Involvement in the evaluation discussion</p>
-<p>â€¢	Ensuring that the Quote Evaluation Form is completed accurately</p>
-<p>â€¢	Ensuring samples are available for review if relevant and are returned to all unsuccessful bidders</p>
-<p>â€¢	To Ensure the Quality of the equipment</p>
+<p>â€?To analyze quotations provided by the logistics department, and provide recommendation for approval</p>
+<p>â€?To ensure all documentation is accurately completed</p>
+<p>â€?To ensure that the supplies/services quoted for comply with what was requested</p>
+<p>â€?Seek clarification from suppliers/service providers where necessary</p>
+<p>â€?The PC should also be assigned a role within the supplier pre-preprocessing process</p>
+<p>â€?In certain contexts, it may be appropriate for some or all members of the PC to be directly involved in the collection of quotations</p>
+<p>â€?Ensuring proportionality, transparency, accountability and fairness in the procurement process</p>
+<p>â€?Ensuring all relevant documentation is prepared prior to PC meeting</p>
+<p>â€?Involvement in the evaluation discussion</p>
+<p>â€?Ensuring that the Quote Evaluation Form is completed accurately</p>
+<p>â€?Ensuring samples are available for review if relevant and are returned to all unsuccessful bidders</p>
+<p>â€?To Ensure the Quality of the equipment</p>
 <p></p>
 <h2>PURCHASE COMMITTEE MEMBERS:</h2>
 <table border="1">
@@ -33,7 +33,8 @@
 <p></p>
 <h2>Upcoming proposal for the current academic year include:</h2>
 <p>1)	Proposal for LCD Colour Projector in all classrooms - This technology has opened up the possibility for PowerPoint to make information more accessible, guided notes to allow students more time to practice new math skills, and videos and pictures that can help students make connections between math and the real world.</p>
-<p>2)	Proposal for CCTV in all classrooms â€“ Benefits includes keep stock of every event, Discipline is no more an issue, Teachersâ€™ behavior as well as Students can be monitored, helps in investigation, Emergencies can be tackled, Intrudes and offenders can be easily caught and helps avert ragging.</p>
+<p>2)	Proposal for CCTV in all classrooms â€?Benefits includes keep stock of every event, Discipline is no more an issue, Teachersâ€?behavior as well as Students can be monitored, helps in investigation, Emergencies can be tackled, Intrudes and offenders can be easily caught and helps avert ragging.</p>
 <p>3)	Proposal for 10 laptops - The challenge is a good connectivity and engagement for the disadvantaged students to use laptops for online classes.</p>
 <p></p>
 </div>
+

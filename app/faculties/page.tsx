@@ -16,8 +16,8 @@ import { BookOpenCheck, CodeXml, Cpu, LinkIcon, Network } from "lucide-react";
 import { notFound } from "next/navigation";
 
 export const metadata = {
-  title: "Nastavnici",
-  description: "Београдски технички институт за аутоматизацију, Beograd, Srbija",
+  title: "Καθηγητές",
+  description: "Πολυτεχνείο Αθηνών Καινοτομίας, Αθήνα, Ελλάδα",
 };
 
 export default async function Post({
@@ -34,15 +34,15 @@ export default async function Post({
           src={ucekImage}
           width={1920}
           height={1080}
-          alt="Slika slajdera 1"
+          alt="Εικόνα σλάιντερ 1"
           className="h-[300px] w-full object-cover brightness-50"
         />
         <div className="absolute w-full top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white">
           <h1 className="text-3xl font-bold text-primary-foreground sm:text-4xl md:text-5xl">
-            Nastavnici
+            Καθηγητές
           </h1>
           <p className="text-xs md:text-lg text-slate-200">
-            Београдски технички институт за аутоматизацију, Beograd, Srbija
+            Πολυτεχνείο Αθηνών Καινοτομίας, Αθήνα, Ελλάδα
           </p>
         </div>
       </div>

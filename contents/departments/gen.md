@@ -1,87 +1,86 @@
-Opšti smerovi
+Γενικές Κατευθύνσεις
 
-# Odsek za opšte smerovi
+# Τμήμα Γενικών Κατευθύνσεων
 
-Odsek za opšte smerovi predstavlja fundamentalnu osnovu obrazovanja na Београдском техничком институту za auztomatizaciju. Osnovan je istovremeno sa institutom 2000. godine kako bi pružio solidne teoretske temelje svim studentima.
+Το Τμήμα Γενικών Κατευθύνσεων αποτελεί τη βάση της ακαδημαϊκής εκπαίδευσης στο Πολυτεχνείο Αθηνών Καινοτομίας, παρέχοντας θεμελιώδη γνώση σε όλους τους φοιτητές.
 
-## O odseku
+## Αποστολή
 
-Naš odsek je odgovoran za nastavu osnovnih nauka koje čine temelj tehničkog obrazovanja:
-- Математика
-- Fizika  
-- Hemija
-- Srpski jezik i književnost
-- Strani jezici
-- Filozofija i etika
+Να παρέχουμε ολοκληρωμένη παιδεία στις θεμελιώδεις επιστήμες και ανθρωπιστικά μαθήματα που αποτελούν τη βάση για την εξειδικευμένη τεχνολογική εκπαίδευση.
 
-## Naša uloga
+## Μαθήματα
 
-Odsek za opšte smerove ima ključnu ulogu u:
-- Osiguravanju čvrstih teoretskih osnova
-- Razvoju kritičkog mišljenja
-- Формирању етичког става код studenata
-- Unapređenju komunikacionih veština
-- Интердисциплинарном приступу образовањu
+### Μαθηματικά και Φυσικές Επιστήμες
+- Μαθηματική Ανάλυση I & II
+- Γραμμική Άλγεβρα
+- Διαφορικές Εξισώσεις
+- Φυσική I & II
+- Στατιστική και Πιθανότητες
 
-## Nastavni predmeti
+### Μηχανική και Τεχνολογία
+- Μηχανική Υλικών
+- Θερμοδυναμική
+- Ηλεκτρικά Κυκλώματα
+- Ψηφιακή Λογική
+- Αρχές Προγραμματισμού
 
-### Prva godina (svi smerovi)
-- **Matematika 1 i 2** - Diferencijalni i integralni račun
-- **Fizika 1 i 2** - Mehanika, termodinamika, elektromagnetizam
-- **Hemija** - Osnove opšte i neorganske hemije
-- **Srpski jezik** - Akademsko pisanje i komunikacija
-- **Engleski jezik** - Tehnički engleski
+### Ανθρωπιστικά και Κοινωνικά
+- Ιστορία της Τεχνολογίας
+- Φιλοσοφία της Επιστήμης
+- Τεχνική Επικοινωνία
+- Αγγλικά για Μηχανικούς
+- Οικονομία και Διοίκηση
 
-### Druga godina
-- **Matematika 3** - Diferencijaлне jednačine
-- **Statistika i verovatnoća** - Osnove statističke analize
-- **Filozofija nauke** - Metodologija naučnog rada
-- **Екологија** - Principi održivog razvoja
+### Εργαστήρια
+- Εργαστήριο Φυσικής
+- Εργαστήριο Χημείας
+- Εργαστήριο Ηλεκτρονικής
+- Εργαστήριο Προγραμματισμού
+- Εργαστήριο CAD
 
-### Izborna grupa (treća i četvrta godina)
-- **Njemački jezik** - Poslovni nemački
-- **Francouzski jezik** - Tehnički francuski  
-- **Русски язык** - Ruski jezik za инженjere
-- **Економика** - Основе економске teorije
-- **Менаџмент** - Upravljanje projektima
+## Στόχοι
 
-## Nastavno osoblje
+- **Στέρεη βάση**: Παροχή θεμελιώδους γνώσης για προχωρημένες σπουδές
+- **Κριτική σκέψη**: Ανάπτυξη αναλυτικών και προβλημοσολυτικών ικανοτήτων
+- **Επικοινωνία**: Βελτίωση γραπτής και προφορικής επικοινωνίας
+- **Ηθική**: Καλλιέργεια επαγγελματικής δεοντολογίας
 
-Odsek čini multidisciplinarni tim od 18 nastavnika:
-- 5 matematчара
-- 4 физичара
-- 3 хемичара
-- 3 филолога
-- 2 filozofa
-- 1 еколог
+## Διδακτικό Προσωπικό
 
-## Naučno-istraživački rad
+- **Μαθηματικά**: 4 μέλη ΔΕΠ
+- **Φυσικές Επιστήμες**: 3 μέλη ΔΕΠ  
+- **Ανθρωπιστικά**: 2 μέλη ΔΕΠ
+- **Γλώσσες**: 2 μέλη ΕΔΙΠ
 
-Nastavnici odseka učestvuju u:
-- Interdisciplinarnim istraživanjima
-- Projektima Ministarstva nauke
-- Међународним научниm конференцијама
-- Објављивању радова у рангиranih часописima
+## Υποστηρικτικές Υπηρεσίες
 
-## Dodatne aktivnosti
+### Κέντρο Μαθησιακής Υποστήριξης
+- Επιπρόσθετα μαθήματα για αδύναμους φοιτητές
+- Ομάδες μελέτης
+- Διαγωνισμοί μαθηματικών
 
-- **Математички клуб** - Takmičenja i dodatna nastava
-- **Научно-популарne беседе** - Гостующи предавачи
-- **Језички кутак** - Konverzacijski časovi
-- **Философски cafe** - Diskusije o актуелnim temaма
+### Κέντρο Γλωσσών
+- Εκμάθηση αγγλικών σε προχωρημένο επίπεδο
+- Γερμανικά και γαλλικά
+- Τεχνική ορολογία
 
-## Значај за студенте
+### Συμβουλευτικές Υπηρεσίες
+- Ακαδημαϊκή καθοδήγηση
+- Επαγγελματικός προσανατολισμός
+- Ψυχολογική υποστήριξη
 
-Predmeti opštih smerova:
-- Развијају аналитичко мишљење
-- Побољшавају комуникационе вештине  
-- Проширују културni horizonт
-- Припремају за целоживотно учење
-- Формирају одговорne грађане
+## Δραστηριότητες
 
-## Kontakt
+- **Μαθηματικοί Διαγωνισμοί**: Εθνικοί και διεθνείς
+- **Επιστημονικές Εκθέσεις**: Ετήσια παρουσίαση έργων
+- **Διαλέξεις**: Προσκεκλημένοι ομιλητές
+- **Εκπαιδευτικές Επισκέψεις**: Μουσεία και ερευνητικά κέντρα
 
-**Šef odseka:** Prof. dr Дејан Петровић  
-**Email:** general@btia.edu.rs  
-**Telefon:** +381 11 234 5681  
-**Kancelarija:** Zgrada A, sprat 1, sala 110
+## Επικοινωνία
+
+**Διευθυντής**: Καθ. Δρ. Χρήστος Παπαδημητρίου
+**Email**: general@api.edu.gr
+**Τηλέφωνο**: +30 2130987650
+
+**Γραμματεία**: Κτίριο Α, Ισόγειο
+**Ώρες λειτουργίας**: Δευτέρα-Παρασκευή 09:00-15:00

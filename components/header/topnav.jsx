@@ -7,15 +7,14 @@ const TopNavbar = () => {
       <div className="flex items-start gap-8">
         <div className="flex items-center gap-2">
           <Phone color="#E74D3C" className="w-4 md:w-6"/>
-          <a href="tel:+381 11 5469154">
-          <span className="text-[12px] md:text-[1rem]">+381 11 5469154</span></a>
+          <a href="tel:+30 2130989242">
+          <span className="text-[12px] md:text-[1rem]">+30 2130989242</span></a>
         </div>
         <div className="items-center gap-2 md:flex hidden">
           <Mail color="#E74D3C" />
-          <a href="mailto: anadmin101@btia.edu.rs">
-          <span className="text-sm md:text-[1rem]">
-            anadmin101@btia.edu.rs
-          </span>
+          <a href="mailto: admin@api.edu.gr">
+          <span className="border-r border-r-gray-500 pr-2">
+          admin@api.edu.gr</span>
           </a>
         </div>
       </div>

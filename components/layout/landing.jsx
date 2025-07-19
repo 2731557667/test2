@@ -17,10 +17,10 @@ const Landing = () => {
       >
         <div className="w-full h-full flex flex-col justify-center items-center bg-black bg-opacity-50">
           <h1 className="text-white text-[35px] md:text-5xl lg:text-5xl font-bold text-center mb-4 px-4 md:px-8">
-            Београдски технички институт за аутоматизацију
+            Πολυτεχνείο Αθηνών Καινοτομίας
           </h1>
           <p className="text-white text-base md:text-lg lg:text-xl text-center px-4 md:px-8">
-          Beograd, Srbija
+          Αθήνα, Ελλάδα
           </p>
         </div>
       </div>

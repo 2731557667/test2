@@ -1,30 +1,37 @@
-COLLEGE BUS
+ΛΕΩΦΟΡΕΙΟ ΚΟΛΛΕΓΙΟΥ
 
 
   <div style="font-size: 15px;">
     <p>
-      The College Transport Division at UCEK ensures safe and convenient commuting for students and staff through two well-maintained buses that cover key areas across Thiruvananthapuram city. Students can avail College bus facility by taking passes for one month. Occasional users may travel by purchasing a ₹15 ticket per ride. Operated under the supervision of college authorities, the transport service guarantees punctuality and reliability, and the buses are also available for special purpose for students and staff.
+      Το Τμήμα Μεταφορών του Κολλεγίου στο API εξασφαλίζει ασφαλή και άνετη μετακίνηση για φοιτητές και προσωπικό μέσω δύο καλά συντηρημένων λεωφορείων που καλύπτουν βασικές περιοχές σε όλη την Αθήνα. Οι φοιτητές μπορούν να επωφεληθούν από την υπηρεσία λεωφορείου του κολλεγίου παίρνοντας μηνιαίες κάρτες. Οι περιστασιακοί χρήστες μπορούν να ταξιδέψουν αγοράζοντας εισιτήριο 2€ ανά διαδρομή. Λειτουργεί υπό την επίβλεψη των αρχών του κολλεγίου, η υπηρεσία μεταφοράς εγγυάται την ακρίβεια και αξιοπιστία, και τα λεωφορεία είναι επίσης διαθέσιμα για ειδικούς σκοπούς για φοιτητές και προσωπικό.
       </p>
   </div>
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">Bus Routes</h3>
+  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">Διαδρομές Λεωφορείων</h3>
   <ul style="margin-left: 1.5rem; font-size: 15px;">
-    <li><strong>Route A:</strong> Eastfort – Attakulangara – Killipalam – Karamana – Poojapura – Jagathy – Vazhuthacaud – Panavila – Thampanoor – S.H.C – P.M.S – Pattom – Kesavadasapuram – Ulloor – Kariavattom – UCEK</li>
-    <li><strong>Route B:</strong> Vellayambalam – Vattiyoorkavu – Mannamoola – Peroorkada – Kowdiar – Palayam – General Hospital – Patoor – Pettah – Chakkai – Infosys – Technopark – Kazhakuttam – Kariavattom – UCEK</li>
+    <li><strong>Διαδρομή Α:</strong> Ομόνοια – Βικτωρία – Κάνιγγος – Εξάρχεια – Πολυτεχνείο – Στουρνάρη – Πατησίων – Κυψέλη – Αμπελόκηποι – Παγκράτι – Καισαριανή – Ζωγράφου – API</li>
+    <li><strong>Διαδρομή Β:</strong> Συντάγμα – Κολωνάκι – Λυκαβηττός – Αμπελόκηποι – Κολοκυνθούς – Παπάγου – Χολαργός – Αγία Παρασκευή – Χαλάνδρι – Μελίσσια – Πεντέλη – Βριλήσσια – API</li>
   </ul>
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">Guidelines</h3>
-  <ul style="margin-left: 1.5rem; font-size: 15px;">
-    <li>Monthly bus passes are mandatory for regular commuters.</li>
-    <li>Bus passes are issued at the college office on submitting the required form and photo.</li>
-    <li>Occasional users can purchase single-journey tickets at ₹15.</li>
-    <li>Buses are coordinated and monitored by college staff for smooth operation.</li>
-    <li>Special trips can be arranged for staff and students for events and industrial visits.</li>
-  </ul>
+  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">Πρόγραμμα Λεωφορείων</h3>
+  <div style="margin-left: 1.5rem; font-size: 15px;">
+    <p><strong>Ώρες Λειτουργίας:</strong></p>
+    <ul>
+      <li>Πρωινό Δρομολόγιο: 06:30 ΠΜ - 09:30 ΠΜ</li>
+      <li>Απογευματινό Δρομολόγιο: 03:30 ΜΜ - 06:30 ΜΜ</li>
+      <li>Ειδικά δρομολόγια για εκδηλώσεις και εξετάσεις</li>
+    </ul>
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">Timings</h3>
-  <ul style="margin-left: 1.5rem; font-size: 15px;">
-    <li><strong>Morning Trips:</strong> Begin from starting points around 7:45 AM</li>
-    <li><strong>Evening Return:</strong> Depart from college at around 4:30 PM</li>
-    <li>Timings may vary slightly depending on traffic and route conditions.</li>
-  </ul>
+    <p><strong>Κανόνες και Κατευθυντήριες Γραμμές:</strong></p>
+    <ul>
+      <li>Οι φοιτητές πρέπει να έχουν έγκυρη φοιτητική ταυτότητα</li>
+      <li>Τήρηση ώρας για τακτική εξυπηρέτηση</li>
+      <li>Το λεωφορείο μπορεί να χρησιμοποιηθεί μόνο από όσους έχουν κάρτα λεωφορείου</li>
+      <li>Η κάρτα λεωφορείου μπορεί να ληφθεί από το γραφείο υποβάλλοντας αίτηση στην προκαθορισμένη φόρμα μαζί με την αμοιβή και φωτογραφία διαβατηρίου</li>
+      <li>Τα λεωφορεία είναι επίσης διαθέσιμα για βιομηχανικές επισκέψεις και άλλες ακαδημαϊκές δραστηριότητες</li>
+    </ul>
+
+    <p><strong>Επικοινωνία:</strong></p>
+    <p>Τμήμα Μεταφορών: +30 2130987654<br/>
+    Email: transport@api.edu.gr</p>
+  </div>

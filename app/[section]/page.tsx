@@ -39,16 +39,16 @@ export async function generateMetadata({
   try {
     fs.readdirSync(fullPath, "utf8");
     title =
-      (params.section == "departments" && "Departments") ||
-      (params.section == "about" && "About") ||
-      (params.section == "cells" && "Cells & Committees") ||
-      (params.section == "facilities" && "Facilities") ||
-      (params.section == "academics" && "Academics") ||
+      (params.section == "departments" && "Τμήματα") ||
+      (params.section == "about" && "Σχετικά") ||
+      (params.section == "cells" && "Κέντρα & Επιτροπές") ||
+      (params.section == "facilities" && "Εγκαταστάσεις") ||
+      (params.section == "academics" && "Ακαδημαϊκά") ||
       "404";
-    content = "Београдски технички институт за аутоматизацију, Beograd, Serbia";
+    content = "Πολυτεχνείο Αθηνών Καινοτομίας, Αθήνα, Ελλάδα";
   } catch (e) {
     title = "404";
-    content = "Page not found. That's all we know. :-(";
+    content = "Η σελίδα δεν βρέθηκε. Αυτό είναι όλο που ξέρουμε. :-(";
   }
 
   return {
@@ -63,11 +63,11 @@ const getArticle = ({ section }: { section: string }) => {
   try {
     const files = fs.readdirSync(path.join(contentDir, section));
     title =
-      (section == "departments" && "Departments") ||
-      (section == "about" && "About") ||
-      (section == "cells" && "Cells & Committees") ||
-      (section == "facilities" && "Facilities") ||
-      (section == "academics" && "Academics") ||
+      (section == "departments" && "Τμήματα") ||
+      (section == "about" && "Σχετικά") ||
+      (section == "cells" && "Κέντρα & Επιτροπές") ||
+      (section == "facilities" && "Εγκαταστάσεις") ||
+      (section == "academics" && "Ακαδημαϊκά") ||
       "404";
     contents = files.map((file) => {
       const filePath = path.join(contentDir, section, file);
@@ -114,7 +114,7 @@ export default async function Post({
             {title}
           </h1>
           <p className="text-xs md:text-lg text-slate-200">
-            Београдски технички институт за аутоматизацију, Beograd, Srbija
+            Πολυτεχνείο Αθηνών Καινοτομίας, Αθήνα, Ελλάδα
           </p>
         </div>
       </div>

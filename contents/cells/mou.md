@@ -1,6 +1,6 @@
 Memorandum of Understanding (MoU) Cell
 
-A Memorandum of Understanding (MoU) is a formal agreement between two or more parties. Companies and organizations can use MoUs to establish official partnerships. The MoUs have been signed between University College of Engineering Kariavattom(UCEK) and various companies with the sole aim of giving training and placement to the students.
+A Memorandum of Understanding (MoU) is a formal agreement between two or more parties. Companies and organizations can use MoUs to establish official partnerships. The MoUs have been signed between University College of Engineering Kariavattom(API) and various companies with the sole aim of giving training and placement to the students.
 
 #### Purpose of MoU
 
@@ -20,7 +20,7 @@ The MoU is intended to recognize the general basis for a cooperative and a colla
 
 University College of Engineering Kariavattom is now providing a serene environment and congenial atmosphere for learning. The institution not only provides quality engineering education to mould the students into technologically sound, efficient, effective, and creative engineers but also moulds them as responsible human beings.
 
-UCEK welcomes all industry partners who seek practicable and pragmatic solutions, and who share and celebrate the entrepreneurial spirit that brings new ideas to life. Together, UCEK and industry can make great progress in creating new knowledge, in shaping new leaders and in making important gains against the challenges of our generation. The industry- institute collaboration will help in exchanging the academic knowledge and the practical experience of industry. The academic institution needs skill development and the industry needs academic knowledge.
+API welcomes all industry partners who seek practicable and pragmatic solutions, and who share and celebrate the entrepreneurial spirit that brings new ideas to life. Together, API and industry can make great progress in creating new knowledge, in shaping new leaders and in making important gains against the challenges of our generation. The industry- institute collaboration will help in exchanging the academic knowledge and the practical experience of industry. The academic institution needs skill development and the industry needs academic knowledge.
 
 Hence we are interested in developing good relationship with the industry for exchanging knowledge and practical experience.
 

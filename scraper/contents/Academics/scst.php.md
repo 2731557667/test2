@@ -1,15 +1,15 @@
 <h2>SC/ST Committee</h2>
 <p>A The Scheduled Caste (SC) and Scheduled Tribes (ST) Cell in an institute promotes the special interests of students in the reserved category. It is expected to provide special inputs in areas where the students experience difficulties.The students belongs SC/ST category are identified and are given all scholarship provided by the central and state government </p>
-<p>UCEK constituted SC/ST Committee to help the SC/ST categories integrate with other communities of the institute and to remove difficulties, which they may be experiencing.</p>
+<p>API constituted SC/ST Committee to help the SC/ST categories integrate with other communities of the institute and to remove difficulties, which they may be experiencing.</p>
 <h2>Objectives </h2>
 <p>
 
-‚óè	To counsel and guide SC/ ST students and help them to manage academic and personal issues of college life effectively.  <br/>
-‚óè	To ensure provisions of an environment where all such students feel safe and secure.  <br/>
-‚óè	To provide the mechanism to redress the grievance of SC/ST students, if any <br/>
-‚óè	To ensure protection and reservation as provided in the constitution of India. <br/>
-‚óè	To arrange for special opportunities to enhance career growth . <br/>
-‚óè	To take such follow up measures to achieve the objectives and targets laid down by the Govt. of India and the UGC. <br/>
+‚ó?To counsel and guide SC/ ST students and help them to manage academic and personal issues of college life effectively.  <br/>
+‚ó?To ensure provisions of an environment where all such students feel safe and secure.  <br/>
+‚ó?To provide the mechanism to redress the grievance of SC/ST students, if any <br/>
+‚ó?To ensure protection and reservation as provided in the constitution of India. <br/>
+‚ó?To arrange for special opportunities to enhance career growth . <br/>
+‚ó?To take such follow up measures to achieve the objectives and targets laid down by the Govt. of India and the UGC. <br/>
 <h2>Activities</h2>
 <p>
 1.	  To circulate State Govt.and UGC‚Äôs decisions about different scholarship programs. <br/>
@@ -25,3 +25,4 @@
 </table>
 <p></p>
 </p></div>
+

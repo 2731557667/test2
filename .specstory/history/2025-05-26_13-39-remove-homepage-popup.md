@@ -4,8 +4,7 @@
 
 _**User**_
 
-删除首页的弹窗
-
+删除首页的弹�?
 <div id="popupBox" class="relative scale-90 transition-all duration-300 ease-out opacity-100 scale-100" style="width: 90%; max-width: 600px; height: auto; max-height: 100vh;"><div class="relative w-full" style="padding-bottom: 125%;"><a href="/admissions/btech"><img alt="NRI Admissions 2025 Open" fetchpriority="high" decoding="async" data-nimg="fill" class="object-contain rounded-xl" sizes="(max-width: 768px) 80vw, 600px" srcset="https://is.ncut.edu.cn/images/1-.jpg" style="position: absolute; height: 100%; width: 100%; inset: 0px;"></a><button id="closeBtn" class="absolute top-3 right-3 z-50 h-9 w-9 flex justify-center text-white bg-gray-700 bg-opacity-70 rounded-full text-2xl hover:bg-opacity-100 transition-all duration-200">×</button></div></div>
 
 
@@ -17,7 +16,7 @@ _**User**_
 _**Assistant**_
 
 <details>
-            <summary>Searched codebase "popupBox" • **25** results</summary>
+            <summary>Searched codebase "popupBox" �?**25** results</summary>
         
 | File | Lines |
 |------|-------|
@@ -78,7 +77,7 @@ _**Assistant**_
 ---
 
 <details>
-            <summary>Searched codebase "Popup" • **25** results</summary>
+            <summary>Searched codebase "Popup" �?**25** results</summary>
         
 | File | Lines |
 |------|-------|
@@ -103,7 +102,7 @@ _**Assistant**_
 | `components/header/topnav.jsx` | L1-31 |
 | `components/layout/events.jsx` | L77-119 |
 | `hooks/use-outside-click.ts` | L1-23 |
-| `components/layout/ucekmore.jsx` | L1-28 |
+| `components/layout/APImore.jsx` | L1-28 |
 | `components/layout/hero-slider.jsx` | L1-41 |
 | `components/ui/expandable-card.tsx` | L1-24 |
 | `components/header/nav.jsx` | L478-500 |
@@ -132,16 +131,11 @@ _**Assistant**_
 
 ---
 
-彻底删除弹窗Popup组件文件，首页和其他地方已不再引用。
-
+彻底删除弹窗Popup组件文件，首页和其他地方已不再引用�?
 ---
 
-首页弹窗已彻底删除，具体操作如下：
-
-1. 移除了 `components/layout/announcement.tsx` 中所有与弹窗 Popup 相关的逻辑和引用。
-2. 移除了 `app/page.tsx` 中对 Popup 组件的引用和注释。
-3. 删除了 `components/layout/popup.jsx` 文件，彻底移除弹窗组件代码。
-
+首页弹窗已彻底删除，具体操作如下�?
+1. 移除�?`components/layout/announcement.tsx` 中所有与弹窗 Popup 相关的逻辑和引用�?2. 移除�?`app/page.tsx` 中对 Popup 组件的引用和注释�?3. 删除�?`components/layout/popup.jsx` 文件，彻底移除弹窗组件代码�?
 这样首页及全站都不会再出现该弹窗。你可以重新启动或刷新页面进行验证。如果还有其他弹窗或细节需要处理，请随时告知！
 
 ---

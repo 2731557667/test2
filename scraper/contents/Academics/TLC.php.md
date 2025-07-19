@@ -1,24 +1,24 @@
-<h2>Teaching and Learning Cell</h2>
+<h2>Κέντρο Διδασκαλίας και Μάθησης</h2>
 <p>
-The Cell has the main intention of providing a conducive environment for teaching and learning in the institution. It organizes programmes and add-on courses to motivate teachers and students and groom them into professionals of the highest professional and personal quality.  It has been launched with the intent to improve quality in educational development at all stages of education by focussing on the preparation of teachers, their working conditions in classrooms and colleges and to gear their continuous professional development to ensure the best talent made available in the country to shape a future generation. 
+Το Κέντρο έχει ως κύρια πρόθεση την παροχή ευνοϊκού περιβάλλοντος για τη διδασκαλία και τη μάθηση στο ίδρυμα. Διοργανώνει προγράμματα και συμπληρωματικά μαθήματα για την παρακίνηση διδασκόντων και φοιτητών και την καλλιέργειά τους σε επαγγελματίες υψηλότερης επαγγελματικής και προσωπικής ποιότητας. Έχει ξεκινήσει με στόχο τη βελτίωση της ποιότητας στην εκπαιδευτική ανάπτυξη σε όλα τα στάδια της εκπαίδευσης εστιάζοντας στην προετοιμασία των διδασκόντων, τις συνθήκες εργασίας τους στις αίθουσες διδασκαλίας και τα κολλέγια και στην προώθηση της συνεχούς επαγγελματικής τους ανάπτυξης για να διασφαλιστεί ότι το καλύτερο ταλέντο είναι διαθέσιμο στη χώρα για να διαμορφώσει μια μελλοντική γενιά.
 
 </p>
-<h2>Vision </h2>
-<p>To be a Cell for facilitating studies, and implementation of innovative teaching-learning methodologies/ technologies under teaching-learning processes of the Institute, in better pursuit of quality for higher technical education to the level of world class education in the service of the nation.
+<h2>Όραμα </h2>
+<p>Να γίνει Κέντρο διευκόλυνσης μελετών και εφαρμογής καινοτόμων μεθοδολογιών/τεχνολογιών διδασκαλίας-μάθησης υπό τις διαδικασίες διδασκαλίας-μάθησης του Ιδρύματος, σε καλύτερη επιδίωξη ποιότητας για την ανώτερη τεχνική εκπαίδευση σε επίπεδο παγκόσμιας τάξης εκπαίδευσης στην υπηρεσία του έθνους.
 
 </p>
-<h2>Mission </h2>
-<p>1.	Conducting Faculty Development Programmes.<br/>
-2.	Conducting Interactive sessions on ideas/thoughts/projects/personal experiences in education.<br/>
-3.	Peer appraisal of research projects.<br/>
-4.	Organizing orientation / training programmes for new recruits.<br/>
-5.	Conducting classes for Personality Development and Communication Skills.<br/>
-6.	Providing guidance to students for various competitive examinations.<br/>
+<h2>Αποστολή </h2>
+<p>1.	Διεξαγωγή Προγραμμάτων Ανάπτυξης Διδακτικού Προσωπικού.<br/>
+2.	Διεξαγωγή διαδραστικών συνεδριών σχετικά με ιδέες/σκέψεις/έργα/προσωπικές εμπειρίες στην εκπαίδευση.<br/>
+3.	Αμοιβαία αξιολόγηση ερευνητικών έργων.<br/>
+4.	Διοργάνωση προγραμμάτων προσανατολισμού/εκπαίδευσης για νέους υπαλλήλους.<br/>
+5.	Διεξαγωγή μαθημάτων για Ανάπτυξη Προσωπικότητας και Επικοινωνιακές Δεξιότητες.<br/>
+6.	Παροχή καθοδήγησης σε φοιτητές για διάφορες εξετάσεις ανταγωνισμού.<br/>
 </p><br/>
 <table border="2">
-<tr><td><h4>Member</h4></td><td><h4>Department</h4></td>
-<tr><td>Mrs.Priyamvada K C	</td><td>PHYSICS</td></tr>
-<tr><td>Mrs.Suma C S</td><td>CSE</td></tr>
+<tr><td><h4>Μέλος</h4></td><td><h4>Τμήμα</h4></td>
+<tr><td>Κα. Πριγκιπέσσα Κ. Χ.	</td><td>ΦΥΣΙΚΗ</td></tr>
+<tr><td>Κα. Σουμά Χ. Σ.</td><td>ΕΠΙΣΤΗΜΗ ΥΠΟΛΟΓΙΣΤΩΝ</td></tr>
 </tr></table>
 <html>
 <head>
@@ -33,3 +33,4 @@ The Cell has the main intention of providing a conducive environment for teachin
 </body>
 </html>
 </div>
+

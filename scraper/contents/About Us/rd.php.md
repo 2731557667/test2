@@ -35,8 +35,8 @@ The following are the functions and responsibilities of Research and Development
 <p>In order to promote research and development activities, the college extends its full support to students/faculty/staff. Full/Partial financial support is given to all innovative research &amp; development works taken up by the students, faculty and staff members. The college encourages students, faculty and staff to participate in National/International Conferences, Training programmes, Tech-Festivals organized by reputed institutes (IITs/NITs/State Engg. Colleges etc.) by giving full/partial financial support viz. course/registration fee, TA/DA etc.</p>
 <h2>The Research and Development cell of the College is working on the following research disciplines.</h2>
 <p>Electronics &amp; Communication Engineering<br/>
-Computer Science and Engineering<br/>
-Information Technology<br/>
+¦¥¦Ð¦É¦Ò¦Ó?¦Ì¦Ç ¦´¦Ð¦Ï¦Ë¦Ï¦Ã¦É¦Ò¦Ó?¦Í ¦Ê¦Á¦É ¦¬¦Ç¦Ö¦Á¦Í¦É¦Ê?<br/>
+¦³¦Å¦Ö¦Í¦Ï¦Ë¦Ï¦Ã?¦Å? ¦°¦Ë¦Ç¦Ñ¦Ï¦Õ¦Ï¦Ñ¦É?¦Í<br/>
 Mechanical Engineering<br/>
 Electrical Engineering<br/>
 Civil Engineering<br/></p>
@@ -71,3 +71,4 @@ Civil Engineering<br/></p>
 </body>
 </html>
 </p></p></p></div>
+

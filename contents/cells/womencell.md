@@ -1,46 +1,127 @@
-Women Empowerment Cell
+Κέντρο Γυναικών
 
-A Women Empowerment Cell (WEC) has been constituted to empower and safegaurd the rights of female members, faculty staff and students of t h e our institution. The WEC works to promote gender sensitivity in the campus and conduct diverse programmes to educate, sensitize both male and female members and produce harmonious atmosphere on the campus. It works for the welfare of the students and faculty towards preparing them in to competent professionals to take up greater challenges in the academic sphere.
+# Κέντρο Γυναικών
 
-## ABOUT THE CELL
+Το Κέντρο Γυναικών ιδρύθηκε για την προώθηση της ισότητας των φύλων και τη δημιουργία ενός ασφαλούς και υποστηρικτικού περιβάλλοντος για όλες τις γυναίκες στο campus.
 
-Women Cell of UCEK is established with the motto of “towards self-empowered MASTERY mind“. The cell aims to empower girl students and faculty, enhance their understanding of issues related to women and to make the college campus a safe place for girls and women and to address the practical issues related to the welfare and equal opportunities for Women faculty, staff and students.
+## Όραμα
 
-With a view to take up women’s issues and problems, the cell aims at creating awareness of their rights and duties. It also provides a platform for women to share their experiences and views regarding their status in the society. Aiming at intellectual and social upliftment of the female students, the cell stands for facilitating women’s empowerment through guest lectures, seminars, awareness programs and other welfare activities.
+Να δημιουργήσουμε ένα campus όπου όλες οι γυναίκες μπορούν να ευδοκιμήσουν ακαδημαϊκά, επαγγελματικά και προσωπικά χωρίς να αντιμετωπίζουν διακρίσεις ή εμπόδια λόγω φύλου.
 
-## VISION
+## Αποστολή
 
-To promote general well-being of female students, teaching and non-teaching women staff of the College and to provide and maintain a dignified, congenial working environment for women and enable them to explore their imminent potential in all aspects.
+- Προώθηση της ισότητας των φύλων σε όλες τις πτυχές της πανεπιστημιακής ζωής
+- Παροχή υποστήριξης και πόρων για γυναίκες φοιτήτριες και μέλη του προσωπικού
+- Ευαισθητοποίηση σχετικά με θέματα που αφορούν τις γυναίκες
+- Πρόληψη και αντιμετώπιση παρενόχλησης και διακρίσεων
 
-## MISSION
+## Δραστηριότητες
 
-To train women to acquire wide range of skills and knowledge and to develop and increase their social, economic and intellectual capacities for peace, security and prosperity of mankind.
+### Προγράμματα Ενδυνάμωσης
+- Εργαστήρια ανάπτυξης ηγετικών δεξιοτήτων
+- Προγράμματα mentoring για γυναίκες φοιτήτριες
+- Σεμινάρια επαγγελματικής ανάπτυξης
+- Εκπαίδευση δεξιοτήτων ζωής
 
-## OBJECTIVES
+### Ευαισθητοποίηση
+- Εκδηλώσεις για την Παγκόσμια Ημέρα της Γυναίκας
+- Καμπάνιες κατά της βίας με βάση το φύλο
+- Προγράμματα ευαισθητοποίησης για την ισότητα των φύλων
+- Διαλέξεις από εμπειρογνώμονες
 
-* Identification of strong leadership, change-makers among women and girls and building their capacity.  
-* To promote a culture of respect and equality for female gender.  
-* To organize awareness programs on gender sensitization.  
-* The provision of opportunities and programs for girls and women to be financially, mentally and emotionally empowered to promote their growth as individuals in their own right.  
-* To conduct seminars and workshop to impart knowledge of opportunities and tools available and train the women.  
-* Arranging seminars to create awareness on the economic, social, political, and legal rights of women.  
-* Organizing different activities tomake women aware of their health, sports, self-defense etc.  
-* Conducting various competitions to encourage their artistic talents for creative thinking  
-* To highlight the importance of spirituality, health, hygiene and safety  
-* Celebration of International Womens Day on March 8th, every year  
-* To inculcate entrepreneurial attitude among young girls, scientists at the earliest so that they can be “job providers” rather than “job seekers”.  
-* Counseling services for resident and non – resident students head of the department nominates the members of WEC.  
-* It organizes workshops and sensitization programmes both for staff and students by eminent Psychologists and social workers.  
-  
-### Members of Woman Empowerment Cell:
+### Υποστήριξη
+- Συμβουλευτικές υπηρεσίες
+- Υπηρεσίες ψυχικής υγείας
+- Νομική βοήθεια
+- Οικονομική στήριξη για φοιτήτριες
 
-| # | **Name** | **Contact** |
+## Μέλη της Επιτροπής
+
+| # | Όνομα | Τηλέφωνο Επικοινωνίας |
 | --- | --- | --- |
-| 1 | Smt. Vidhya S | 8281867712
-| 2 | Smt. G.S Aiswarya Thankachi | 8547958102
-| 3 | Smt.Sabeena AS | 9946559271
-| 4 | Smt. Gargy G | 8921737320
-| 5 | Smt. Seena R S | 9142331313
+| 1 | Δρ. Βασιλική Παπαδοπούλου | +30 2156789012 |
+| 2 | Δρ. Ελένη Κωνσταντίνου | +30 2167890123 |
+| 3 | Δρ. Μαρία Γεωργίου | +30 2178901234 |
+| 4 | Δρ. Αγγελική Νικολάου | +30 2189012345 |
+| 5 | Δρ. Κατερίνα Μιχαηλίδου | +30 2190123456 |
+
+## Πολιτικές και Κατευθυντήριες Γραμμές
+
+### Πολιτική Κατά της Παρενόχλησης
+- Μηδενική ανοχή σε οποιαδήποτε μορφή παρενόχλησης
+- Διαδικασίες αναφοράς που προστατεύουν την ιδιωτικότητα
+- Γρήγορη και δίκαιη διερεύνηση όλων των καταγγελιών
+- Υποστήριξη τόσο για τα θύματα όσο και για τους μάρτυρες
+
+### Εργασιακό Περιβάλλον
+- Προώθηση ισορροπίας εργασίας-προσωπικής ζωής
+- Παροχή εγκαταστάσεων φροντίδας παιδιών
+- Ευέλικτα ωράρια εργασίας για μητέρες
+- Υποστήριξη σταδιοδρομίας για γυναίκες ακαδημαϊκούς
+
+## Υπηρεσίες
+
+### Ακαδημαϊκή Υποστήριξη
+- Προγράμματα υποτροφιών για γυναίκες
+- Ερευνητικές ευκαιρίες
+- Παρουσίαση σε συνέδρια
+- Δημοσιεύσεις σε περιοδικά
+
+### Προσωπική Ανάπτυξη
+- Εργαστήρια αυτοπεποίθησης
+- Προγράμματα επικοινωνιακών δεξιοτήτων
+- Εκπαίδευση δημόσιου λόγου
+- Διαχείριση άγχους και stress
+
+### Επαγγελματική Στήριξη
+- Δικτύωση με alumnae
+- Εταιρικές συνεργασίες
+- Εργαστήρια συνεντεύξεων
+- CV και portfolio ανάπτυξη
+
+## Εγκαταστάσεις
+
+### Ασφαλής Χώρος
+- Ιδιωτικό γραφείο για συμβουλές
+- Αναπαυτήριο για μητέρες
+- Χώρος μελέτης μόνο για γυναίκες
+- Βιβλιοθήκη με γυναικεία θέματα
+
+### Πόροι
+- Εκπαιδευτικό υλικό για την ισότητα των φύλων
+- Πληροφοριακά φυλλάδια
+- Online πλατφόρμα υποστήριξης
+- Εφαρμογή για έκτακτη ανάγκη
+
+## Επιτεύγματα
+
+### 2023-2024
+- 150+ γυναίκες συμμετείχαν σε προγράμματα
+- 25 εργαστήρια και σεμινάρια
+- 90% ποσοστό ικανοποίησης συμμετεχουσών
+- 5 υποτροφίες απονεμήθηκαν
+
+### Αναγνώριση
+- Βραβείο Καλύτερου Κέντρου Γυναικών 2023
+- Πιστοποίηση ISO για ισότητα φύλων
+- Αναγνώριση από το Υπουργείο Παιδείας
+- Διεθνής συνεργασία με άλλα ιδρύματα
+
+## Επικοινωνία
+
+**Διευθύντρια:** Δρ. Βασιλική Παπαδοπούλου  
+**Τηλέφωνο:** +30 2156789012  
+**Email:** women.center@api.edu.gr  
+**Website:** women.api.edu.gr
+
+**Γραμμή Υποστήριξης 24/7:** +30 2150000000  
+**Έκτακτη Ανάγκη:** 100 (Ελληνική Αστυνομία)
+
+**Ωράριο Λειτουργίας:**  
+Δευτέρα - Παρασκευή: 08:00 - 18:00  
+Σάββατο: 10:00 - 14:00
+
+*"Ενδυναμώνοντας τις γυναίκες, ενδυναμώνουμε το μέλλον"*
 
 
 

@@ -1,5 +1,5 @@
 <h2> ARTS CLUB </h2>
-<p>UCEK arts club is one of the biggest cultural extravaganza club of University college of Engineering, one which encompasses music, dance and fine arts &amp; craft, encasing them in a dynamic dosage of fun and entertainment. Three clubs comes under the Arts club </p>
+<p>API arts club is one of the biggest cultural extravaganza club of ¦°¦Ï¦Ë¦Ô¦Ó¦Å¦Ö¦Í¦Å?¦Ï ¦¡¦È¦Ç¦Í?¦Í ¦ª¦Á¦É¦Í¦Ï¦Ó¦Ï¦Ì?¦Á?, one which encompasses music, dance and fine arts &amp; craft, encasing them in a dynamic dosage of fun and entertainment. Three clubs comes under the Arts club </p>
 <br/>
 <h2>1.	Dance Club </h2>
 <p>The word dance itself alludes rhythm and the artistic flow of beats. It is a performing art, a creative portal, and an ever-evolving form of expression. Dance club aimed to promote the culture of dance among the students. It gives dance lovers an opportunity to prove their talent and is a great platform for their artistic skills. Its not only for people who want to become a professional dancer, but also those who want to meet people of all ages with common interests.</p>
@@ -26,7 +26,7 @@
 <br/>
 <h4><u>Objectives:</u></h4>
 <p>1. Members as an artist will understand their role in creativity and cultural industries.</p>
-<p>2. Evaluating and appreciating membersâ€™ effort through different competitions.</p>
+<p>2. Evaluating and appreciating membersâ€?effort through different competitions.</p>
 <p>3. Promote and support art enthusiasts to propagate and contribute to special activities.</p>
 <br/>
 <p>Art &amp; Crafts club mainly organizes an exhibition at Main building where the team displays its art collection like Oil painting,  Acrylic painting, Water Colour painting , Poster Colour painting, Digital Art, Classroom art, Pencil Sketching, Oil pastels, Pen/ink art, Pencil color shading, Glass painting, Fabric painting, Embroidery, Pot designs, Best out of Waste (Junk Art) The team shows its innovation, creativity and hard work through exhibitions in odd semester and an annual gathering in even semester.  The club organizes its inauguration at the start of every semester for freshers or new aspirants to join..
@@ -36,3 +36,4 @@
 <p>1. Smt. Soumya S Rajan, AP in Chemistry </p>
 <p>2. Smt. Sruthy G S, AP in Civil Engineering </p>
 </div>
+

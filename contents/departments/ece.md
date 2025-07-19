@@ -1,55 +1,76 @@
-Elektronika i telekomunikacije
+Ηλεκτρονικά και Τηλεπικοινωνίες
 
-# Odsek za elektroniku i telekomunikacije
+# Τμήμα Ηλεκτρονικών και Τηλεπικοινωνιών
 
-Odsek za elektroniku i telekomunikacije je jedan od najstarijih i najprestižnijih odseka na Београдском техничком институту за аутоматизацију, osnovan 2001. godine.
+Το Τμήμα Ηλεκτρονικών και Τηλεπικοινωνιών είναι ένα από τα πιο παλιά και αναγνωρισμένα τμήματα του Πολυτεχνείου Αθηνών Καινοτομίας. Ιδρύθηκε το 1998 και από τότε έχει εκπαιδεύσει χιλιάδες μηχανικούς.
 
-## O odseku
+## Όραμα
 
-Naš odsek se fokusira na obrazovanje studenata u oblasti elektronike, telekomunikacija i signalnog procesiranja. Kombinujemo teorijske osnove sa praktičnim radom u savremeno opremljenim laboratorijama.
+Να είμαστε κορυφαίο κέντρο εκπαίδευσης και έρευνας στον τομέα των ηλεκτρονικών και τηλεπικοινωνιών, συμβάλλοντας στην τεχνολογική πρόοδο της χώρας.
 
-## Studijski programi
+## Αποστολή
 
-### Osnovne studije (4 godine)
-- Elektronika i telekomunikacije
-- Automatika i upravljanje
-- Biomedицинско инженjerstvo
+Να παρέχουμε εξαιρετική εκπαίδευση στις ηλεκτρονικές και τηλεπικοινωνιακές τεχνολογίες, να διεξάγουμε καινοτόμα έρευνα και να προετοιμάζουμε τους φοιτητές για επιτυχημένες καριέρες στη σύγχρονη τεχνολογική βιομηχανία.
 
-### Master studije (2 godine)
-- Telekomunikacione tehnologije
-- Digitalno signalno procesiranje
-- Upravljanje sistemima
+## Προγράμματα
 
-### Doktorske studije (3 godine)
-- Napredno istraživanje u oblasti elektronike
+- Προπτυχιακές σπουδές Ηλεκτρονικών και Τηλεπικοινωνιών (4 έτη)
+- Μεταπτυχιακές σπουδές - Ασύρματες Επικοινωνίες (2 έτη)
+- Μεταπτυχιακές σπουδές - Μικροηλεκτρονική (2 έτη)
+- Διδακτορικές σπουδές (3 έτη)
 
-## Laboratorije i oprema
+## Εργαστήρια
 
-- Laboratorija za analognu elektroniku
-- Laboratorija za digitalnu elektroniku
-- Laboratorija za telekomunikacije
-- Laboratorija za upravljanje sistemima
-- Laboratorija za biomedицинsko инженjerstvo
+- Εργαστήριο Αναλογικών Κυκλωμάτων
+- Εργαστήριο Ψηφιακών Συστημάτων
+- Εργαστήριο Τηλεπικοινωνιών
+- Εργαστήριο Μικροκυμάτων
+- Εργαστήριο VLSI Design
+- Εργαστήριο Επεξεργασίας Σημάτων
 
-## Istraživanje
+## Ειδικότητες
 
-Naši nastavnici i studenti učestvuju u:
-- Projektima Ministarstva nauke
-- Međunarodnim istraživačkim projektima
-- Saradnji sa industrijom
-- Publikovanju u međunarodnim časopisima
+- **Τηλεπικοινωνίες**: 5G, Internet of Things, Ασύρματα Δίκτυα
+- **Μικροηλεκτρονική**: Σχεδιασμός IC, Ενσωματωμένα Συστήματα
+- **Επεξεργασία Σημάτων**: Ψηφιακή επεξεργασία, Τεχνητή νοημοσύνη
+- **Ενέργεια**: Ανανεώσιμες πηγές, Έξυπνα δίκτυα
 
-## Karijere
+## Διδακτικό Προσωπικό
 
-Naši diplomirani studenti rade u:
-- Telekomunikacionim kompanijama
-- Elektro industriji
-- IT sektoru
-- Državnim institucijama
-- Istraživačkim centrima
+Το τμήμα διαθέτει 22 μέλη διδακτικού προσωπικού με διεθνή εμπειρία και αναγνώριση:
+- 8 Καθηγητές
+- 9 Αναπληρωτές Καθηγητές
+- 5 Επίκουροι Καθηγητές
 
-## Kontakt
+## Έρευνα
 
-**Šef odseka:** Prof. dr Marija Stojanović  
-**Email:** ece@btia.edu.rs  
-**Telefon:** +381 11 234 5679
+Οι ερευνητικές δραστηριότητες εστιάζουν σε:
+- Ασύρματες και Κινητές Επικοινωνίες
+- Βιοϊατρικά Ηλεκτρονικά
+- Τεχνολογίες IoT και Smart Cities
+- Κβαντικές Επικοινωνίες
+- Τεχνητή Νοημοσύνη σε Ηλεκτρονικά
+
+## Συνεργασίες
+
+- COSMOTE-VODAFONE Ελλάδος
+- OTE Group
+- Siemens Ελλάς
+- Ericsson
+- Nokia
+- National Instruments
+
+## Επαγγελματικές Προοπτικές
+
+Οι απόφοιτοί μας εργάζονται ως:
+- Μηχανικοί Τηλεπικοινωνιών
+- Σχεδιαστές Ηλεκτρονικών Συστημάτων
+- Ειδικοί IoT και Smart Systems
+- Ερευνητές και Αναπτυκτές
+- Διευθυντές Έργων Τεχνολογίας
+
+## Επικοινωνία
+
+**Διευθυντής Τμήματος**: Καθ. Δρ. Γεώργιος Κωνσταντινίδης
+**Email**: ece@api.edu.gr
+**Τηλέφωνο**: +30 2130987654

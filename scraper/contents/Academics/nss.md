@@ -49,17 +49,18 @@
 <font color="black">
 <h4><p>Our NSS unit is now one among the most active NSS unit under NSS Technical Cell, Govt. of Kerala. The NSS Unit of this college was registered in 2013 (unit. No: 214). 
 
-Our unit received Best Unit, Best Programme Officer &amp; Best Volunteer awards from Directorate of Technical Education, Govt. of Kerala. The social activities of NSS UCEK got attraction, appreciation and support from various Govt. Departments, agencies, institutions, Govt. Officials Medias, public, celebrities, Social activists, politicians, Ministers, People’s representatives etc. 
+Our unit received Best Unit, Best Programme Officer &amp; Best Volunteer awards from Directorate of Technical Education, Govt. of Kerala. The social activities of NSS API got attraction, appreciation and support from various Govt. Departments, agencies, institutions, Govt. Officials Medias, public, celebrities, Social activists, politicians, Ministers, People’s representatives etc. 
 
 
 
                                     </p>
-<p>The NSS units of UCEK has contributed many innovative technical projects to the society.The NSS unit of our college, with 100 volunteers, plays an active role in shaping our student humane and responsible citizens. The overall aim of NSS is personality development of students through community service. We conduct special camping programme of seven days duration in adopted places.
+<p>The NSS units of API has contributed many innovative technical projects to the society.The NSS unit of our college, with 100 volunteers, plays an active role in shaping our student humane and responsible citizens. The overall aim of NSS is personality development of students through community service. We conduct special camping programme of seven days duration in adopted places.
 
 
 
 </p>
-<p> Community service rendered by the  unit has taken several dimensions like adoption of villages for intensive development work, carrying out the medico-social service, setting up of medical camps, programs for mass awareness, sanitation drives, adult eduction programs for weaker sections of the community, blood donation camps, helping patients in the hospitals, helping inmates at orphanages and the physically challenged. The unit has also generously involved in fund raising programmes during various natural calamities and disasters. Other major activities are, HOME FOR HOMELESS’ (for providing shelter to poor community), ‘PUNARJJANI’ (repairing &amp; cleaning the old hospital equipments and furniture) etc.
+<p> Community service rendered by the  unit has taken several dimensions like adoption of villages for intensive development work, carrying out the medico-social service, setting up of medical camps, programs for mass awareness, sanitation drives, adult eduction programs for weaker sections of the community, blood donation camps, helping patients in the hospitals, helping inmates at orphanages and the physically challenged. The unit has also generously involved in fund raising programmes during various natural calamities and disasters. Other major activities are, HOME FOR HOMELESS�?(for providing shelter to poor community), ‘PUNARJJANI�?(repairing &amp; cleaning the old hospital equipments and furniture) etc.
 
 </p></h4></font>
 </div>
+

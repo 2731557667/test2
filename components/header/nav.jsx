@@ -22,32 +22,32 @@ const Nav = () => {
   const menu = [
     {
       id: 1,
-      title: "Upis",
+      title: "Εισαγωγή",
       link: "/admissions/btech",
     },
     {
       id: 2,
-      title: "Karijera",
+      title: "Καριέρα",
       link: "/cells/placement",
     },
     {
       id: 3,
-      title: "Prigovori",
+      title: "Παράπονα",
       link: "/cells/grievance",
     },
     {
       id: 4,
-      title: "Dostignuća",
+      title: "Επιτεύγματα",
       link: "/about/achievements",    
     },
     {
       id: 5,
-      title: "Nastavnici",
+      title: "Καθηγητές",
       link: "/faculties",
     },
     {
       id: 6,
-      title: "Kontakt",
+      title: "Επικοινωνία",
       link: "/about/contact",
     },
   ];
@@ -88,15 +88,15 @@ const Nav = () => {
             width={85}
             height={85}
             src={Logo.src}
-            alt="Београдски технички институт за аутоматизацију Logo"
+            alt="Πολυτεχνείο Αθηνών Καινοτομίας Logo"
             className="h-[50px] w-[50px] md:h-[85px] md:w-[85px] text-black prevent-select"
           />
           <div>
             <h1 className="text-lg font-bold text-[17.99px] md:text-[27px]">
-              Београдски технички институт за аутоматизацију
+              Πολυτεχνείο Αθηνών Καινοτομίας
             </h1>
             <p className="text-sm text-[12px] md:text-[14px]">
-              Beograd, Srbija
+              Αθήνα, Ελλάδα
             </p>
           </div>
         </div>
@@ -104,7 +104,7 @@ const Nav = () => {
         <nav className="flex-wrap justify-evenly gap-3 flex md:space-x-1 mt-4 md:mt-0 text-[14px] md:text-[16px] font-[500]">
           {pathname != "/" && (
             <Link href="/" className="text-gray-600 hover:text-gray-800">
-              Početna
+              Αρχική
             </Link>
           )}
           <div className="relative">
@@ -113,7 +113,7 @@ const Nav = () => {
               onClick={() => handleDropdownToggle("cells")}
               className="text-gray-600 hover:text-gray-800 flex items-center"
             >
-              Sekcije i Komiteti
+              Τμήματα και Επιτροπές
               <svg
                 className="w-3 h-3 ml-1"
                 fill="none"
@@ -139,37 +139,37 @@ const Nav = () => {
                 href="/cells/union"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Studentska Unija
+                Φοιτητική Ένωση
               </Link>
               <Link
                 href="/cells/pta"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Savet roditelja
+                Σύλλογος Γονέων
               </Link>
               <Link
                 href="/cells/anti-ragging"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Protiv vršnjačkog nasilja
+                Κατά του Εκφοβισμού
               </Link>
               <Link
                 href="/cells/womencell"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Ženska sekcija
+                Γυναικείο Τμήμα
               </Link>
               <Link
                 href="/cells/placement"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Centar za zapošljavanje
+                Κέντρο Απασχόλησης
               </Link>
               <Link
                 href="/cells"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 hover:rounded-b-xl gap-2 items-center py-3"
               >
-                <MoreHorizontal/>Vidi sve
+                <MoreHorizontal/>Δείτε όλα
               </Link>
 
 
@@ -181,7 +181,7 @@ const Nav = () => {
               onClick={() => handleDropdownToggle("departments")}
               className="text-gray-600 hover:text-gray-800 flex items-center "
             >
-              Smerovi
+              Κατευθύνσεις
               <svg
                 className="w-3 h-3 ml-1"
                 fill="none"
@@ -208,28 +208,28 @@ const Nav = () => {
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
                 <CodeXml className="md:w-6 w-5" />
-                Računarstvo
+                Επιστήμη Υπολογιστών
               </Link>
               <Link
                 href="/departments/ece"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
                 <Cpu className="md:w-6 w-5" />
-                Elektronika i telekomunikacije
+                Ηλεκτρονικά και Τηλεπικοινωνίες
               </Link>
               <Link
                 href="/departments/it"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
                 <Network className="md:w-6 w-5" />
-                Informacione tehnologije
+                Τεχνολογίες Πληροφοριών
               </Link>
               <Link
                 href="/departments/gen"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 hover:rounded-b-xl gap-2 items-center py-3"
               >
                 <BookOpenCheck className="md:w-6 w-5" />
-                Opšti smerovi
+                Γενικές Κατευθύνσεις
               </Link>
             </div>
           </div>
@@ -239,7 +239,7 @@ const Nav = () => {
               onClick={() => handleDropdownToggle("clubs")}
               className="text-gray-600 hover:text-gray-800 flex items-center"
             >
-              Klubovi i sekcije
+              Κλαμπ και Τμήματα
               <svg
                 className="w-3 h-3 ml-1"
                 fill="none"
@@ -266,7 +266,7 @@ const Nav = () => {
                 className="flex px-4 text-gray-600 hover:bg-gray-100 hover:rounded-b-xl gap-2 items-center py-3"
               >
                  <Image src={"/logos/foss.png"} width={30} height={30} alt="logo"/>
-                FOSS Klub
+                Κλαμπ FOSS
               </Link>
 
               <Link
@@ -274,41 +274,41 @@ const Nav = () => {
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
                  <Image src={"/logos/hult.png"} width={30} height={30} alt="logo"/>
-                 Međunarodni klub
+                 Διεθνές Κλαμπ
               </Link>
               <Link
                 href="/clubs/ieee"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
                  <Image src={"/logos/ieee.png"} width={30} height={30} alt="logo"/>
-                Tehnički klub
+                Τεχνικό Κλαμπ
               </Link>
               <Link
                 href="/clubs/iedc"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
                  <Image src={"/logos/iedc.png"} width={30} height={30} alt="logo"/>
-                Klub inovacija
+                Κλαμπ Καινοτομίας
               </Link>
               <Link
                 href="/clubs/mulearn"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
               <Image src={"/logos/mulearn.png"} width={30} height={30} alt="logo"/>
-                Klub projekata
+                Κλαμπ Έργων
               </Link>
               <Link
                 href="/clubs/nss"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
                  <Image src={"/logos/nss.png"} width={30} height={30} alt="logo"/>
-                Volonterski klub
+                Εθελοντικό Κλαμπ
               </Link>
               <Link
                 href="/clubs/tourism"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 hover:rounded-b-xl gap-2 items-center py-3"
               >
-                Turistički klub
+                Τουριστικό Κλαμπ
               </Link>
               
             </div>
@@ -320,7 +320,7 @@ const Nav = () => {
               onClick={() => handleDropdownToggle("facilities")}
               className="text-gray-600 hover:text-gray-800 flex items-center"
             >
-              Sadržaji
+              Εγκαταστάσεις
               <svg
                 className="w-3 h-3 ml-1"
                 fill="none"
@@ -346,44 +346,44 @@ const Nav = () => {
                 href="/facilities/canteen"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Kantina
+                Καντίνα
               </Link>
               
               <Link
                 href="/facilities/centrallibrary.php"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Centralna biblioteka
+                Κεντρική Βιβλιοθήκη
               </Link>
               <Link
                 href="/facilities/co-op-society"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Zadruga
+                Συνεταιρισμός
               </Link>
               <Link
                 href="/facilities/college-bus"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Prevoz
+                Μεταφορά
               </Link>
               <Link
                 href="/facilities/health-centre"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Zdravstveni centar
+                Κέντρο Υγείας
               </Link>
               <Link
                 href="/facilities/scholarship.php"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Stipendije
+                Υποτροφίες
               </Link>
               <Link
                 href="/facilities/wifi-facility"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Internet
+                Διαδίκτυο
               </Link>
             </div>
           </div>
@@ -394,7 +394,7 @@ const Nav = () => {
               onClick={() => handleDropdownToggle("about")}
               className="text-gray-600 hover:text-gray-800 flex items-center"
             >
-              O Centru
+              Σχετικά με το Κέντρο
               <svg
                 className="w-3 h-3 ml-1"
                 fill="none"
@@ -420,50 +420,50 @@ const Nav = () => {
                 href="/about/college"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Centar
+                Κέντρο
               </Link>
               
               <Link
                 href="/about/principal"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Direktor
+                Διευθυντής
               </Link>
               <Link
                 href="/about/office-bearers"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Administracija
+                Διοίκηση
               </Link>
               <Link
                 href="/faculties"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Nastavnici
+                Καθηγητές
               </Link>
               <Link
                 href="/about/disclosures"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Informacije
+                Πληροφορίες
               </Link>
               <Link
                 href="/about/itpolicy"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                IT Politika
+                Πολιτική IT
               </Link>
               <Link
                 href="/about/achievements"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 hover:rounded-b-xl gap-2 items-center py-3"
               >
-                Dostignuća
+                Επιτεύγματα
               </Link>
               <Link
                 href="/about/contact"
                 className="flex px-4 text-gray-600 hover:bg-gray-100 gap-2 items-center py-3"
               >
-                Kontakt
+                Επικοινωνία
               </Link>
             </div>
           </div>

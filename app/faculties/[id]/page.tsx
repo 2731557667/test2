@@ -26,12 +26,12 @@ export async function generateMetadata({
   params: { id: string; section: string };
 }) {
   return {
-    title: "Faculties",
+    title: "Καθηγητές",
     description:
-      (params.id == "cse" && "Computer Science and Engineering") ||
-      (params.id == "ece" && "Electronics and Communication Engineering") ||
-      (params.id == "it" && "Information Technology") ||
-      (params.id == "gen" && "General Sciences"),
+      (params.id == "cse" && "Επιστήμη Υπολογιστών και Μηχανική") ||
+      (params.id == "ece" && "Ηλεκτρονικά και Τηλεπικοινωνίες") ||
+      (params.id == "it" && "Τεχνολογίες Πληροφοριών") ||
+      (params.id == "gen" && "Γενικές Επιστήμες"),
   };
 }
 
@@ -64,14 +64,14 @@ export default async function Post({
         />
         <div className="absolute w-full top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white">
           <h1 className="text-2xl font-bold text-primary-foreground sm:text-4xl md:text-5xl">
-            Faculties
+            Καθηγητές
           </h1>
           <p className="text-xs md:text-lg text-slate-200">
-            Department of{" "}
-            {params.id == "cse" && "Computer Science and Engineering"}
-            {params.id == "ece" && "Electronics and Communication Engineering"}
-            {params.id == "it" && "Information Technology"}
-            {params.id == "gen" && "General Sciences"}
+            Τμήμα{" "}
+            {params.id == "cse" && "Επιστήμης Υπολογιστών και Μηχανικής"}
+            {params.id == "ece" && "Ηλεκτρονικών και Τηλεπικοινωνιών"}
+            {params.id == "it" && "Τεχνολογιών Πληροφοριών"}
+            {params.id == "gen" && "Γενικών Επιστημών"}
           </p>
         </div>
       </div>

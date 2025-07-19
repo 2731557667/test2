@@ -1,33 +1,29 @@
-```
-O nama
+Σχετικά με εμάς
 
-# Vizija i Misija
+# Όραμα και Αποστολή
 
-#### Vizija
+#### Όραμα
 
-Služiti društvu kroz obrazovanje talentovanih, svestrano obrazovanih pojedinaca, sprovođenje visokokvalitetnih istraživanja, razvoj inovativnih tehnologija i time širenje i očuvanje znanja u digitalnom okruženju.
+Να υπηρετούμε την κοινωνία μέσω της εκπαίδευσης ταλαντούχων, ολοκληρωμένα εκπαιδευμένων ατόμων, διεξάγοντας υψηλής ποιότητας έρευνα, αναπτύσσοντας καινοτόμες τεχνολογίες και επεκτείνοντας και διατηρώντας τη γνώση στο ψηφιακό περιβάλλον.
 
-#### Misija
+#### Αποστολή
 
-Privući i zadržati kvalifikovane, kreativne i motivisane pojedince čije liderstvo i doprinos podržavaju principe centra u oblasti obrazovanja, kreativnosti i odgovorne javne službe. Razvijati kadar i resurse za prenošenje znanja studentima i društvu, što će unaprediti nivo obrazovanja i doprineti društvenom i ekonomskom razvoju Srbije.
+Να προσελκύουμε και να κρατάμε ικανά, δημιουργικά και παρακινημένα άτομα των οποίων η ηγεσία και η συνεισφορά υποστηρίζουν τις αρχές του κέντρου στον τομέα της εκπαίδευσης, της δημιουργικότητας και της υπεύθυνης δημόσιας υπηρεσίας. Να αναπτύσσουμε προσωπικό και πόρους για τη μετάδοση γνώσης σε φοιτητές και την κοινωνία, βελτιώνοντας το επίπεδο εκπαίδευσης και συμβάλλοντας στην κοινωνική και οικονομική ανάπτυξη της Ελλάδας.
 
-# Istorija
+# Ιστορία
 
-#### Naš Centar
+#### Το Κέντρο μας
 
-Београдски технички институт за аутоматизацију (SSCZ) osnovan je 2020. godine kao odgovor na rastuću potrebu za visokokvalitetnim online obrazovanjem u Srbiji. U vreme globalnih promena i digitalizacije, grupa iskusnih pedagoga i IT stručnjaka odlučila je da stvori savremenu obrazovnu platformu koja omogućava pristup znanju bez geografskih ograničenja.
+Το Πολυτεχνείο Αθηνών Καινοτομίας (API) ιδρύθηκε το 2018 ως απάντηση στην αυξανόμενη ανάγκη για υψηλής ποιότητας τεχνολογική εκπαίδευση στην Αθήνα. Σε μια εποχή παγκόσμιων αλλαγών και ψηφιοποίησης, μια ομάδα έμπειρων παιδαγωγών και ειδικών ΙΤ αποφάσισε να δημιουργήσει μια σύγχρονη εκπαιδευτική πλατφόρμα που επιτρέπει την πρόσβαση στη γνώση χωρίς γεωγραφικούς περιορισμούς.
 
-U prvoj godini rada SSCZ je ponudio kurseve za učenike osnovnih i srednjih škola. Zahvaljujući inovativnom pristupu i korišćenju najsavremenijih tehnologija, Centar je brzo stekao priznanje među učenicima i roditeljima. Godine 2021. ponuda je proširena na programe za odrasle i specijalizovane stručne kurseve.
+Στο πρώτο έτος λειτουργίας, το API προσέφερε προγράμματα για φοιτητές τεχνολογικών σπουδών. Χάρη στην καινοτόμο προσέγγιση και τη χρήση των πιο σύγχρονων τεχνολογιών, το Κέντρο απέκτησε γρήγορα αναγνώριση μεταξύ φοιτητών και εκπαιδευτικών. Το 2019 η προσφορά επεκτάθηκε σε προγράμματα για ενήλικες και εξειδικευμένα επαγγελματικά μαθήματα.
 
-#### Naša Institucija
+#### Το Ίδρυμά μας
 
-Danas je Београдски технички институт за аутоматизацију lider u oblasti online obrazovanja u Srbiji, nudeći sveobuhvatne programe na svim nivoima obrazovanja. Naša institucija je poznata po visokom kvalitetu nastave i izuzetnom odnosu između predavača i studenata.
+Σήμερα το Πολυτεχνείο Αθηνών Καινοτομίας είναι ηγέτης στον τομέα της τεχνολογικής εκπαίδευσης στην Ελλάδα, προσφέροντας ολοκληρωμένα προγράμματα σε όλα τα επίπεδα εκπαίδευσης. Το ίδρυμά μας είναι γνωστό για την υψηλή ποιότητα διδασκαλίας και την εξαιρετική σχέση μεταξύ καθηγητών και φοιτητών.
 
-SSCZ koristi najnovije obrazovne tehnologije koje omogućavaju interaktivno učenje i personalizaciju obrazovnog puta. Sarađujemo sa vodećim stručnjacima iz različitih oblasti kako bismo studentima pružili znanje koje odgovara savremenim zahtevima tržišta rada.
+Το API χρησιμοποιεί τις νεότερες εκπαιδευτικές τεχνολογίες που επιτρέπουν τη διαδραστική μάθηση και την εξατομίκευση της εκπαιδευτικής διαδρομής. Συνεργαζόμαστε με κορυφαίους ειδικούς από διάφορους τομείς για να παρέχουμε στους φοιτητές γνώσεις που ανταποκρίνονται στις σύγχρονες απαιτήσεις της αγοράς εργασίας.
 
-Centar aktivno razvija veštine kao što su komunikacija i analitičko razmišljanje, koje su neophodne u današnjem profesionalnom okruženju. Funkcionišemo sa najvišim nivoom profesionalizma kako bi svi studenti bili spremni za uspeh u dinamičnom svetu.
+Το Κέντρο αναπτύσσει ενεργά δεξιότητες όπως η επικοινωνία και η αναλυτική σκέψη, που είναι απαραίτητες στο σημερινό επαγγελματικό περιβάλλον. Λειτουργούμε με το υψηλότερο επίπεδο επαγγελματισμού ώστε όλοι οι φοιτητές να είναι έτοιμοι για επιτυχία στον δυναμικό κόσμο.
 
-Studenti različitih smerova organizuju nacionalne simpozijume i takmičenja, pokazujući veliko interesovanje za akademske, tehničke i kulturne aktivnosti. Zahvaljujući angažovanju studenata i podršci nastavnog kadra, SSCZ je na putu da postane jedna od najprestižnijih obrazovnih institucija u regionu.
-
-```
-
+Φοιτητές διαφόρων ειδικοτήτων οργανώνουν εθνικά συμπόσια και διαγωνισμούς, δείχνοντας μεγάλο ενδιαφέρον για ακαδημαϊκές, τεχνικές και πολιτιστικές δραστηριότητες. Χάρη στη δέσμευση των φοιτητών και την υποστήριξη του διδακτικού προσωπικού, το API βρίσκεται στο δρόμο να γίνει ένα από τα πιο αναγνωρισμένα εκπαιδευτικά ιδρύματα στην περιοχή.

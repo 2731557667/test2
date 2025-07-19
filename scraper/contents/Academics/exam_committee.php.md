@@ -1,11 +1,11 @@
 <h2>EXAMINATION COMMITTEE </h2>
-<p>The examination committee of University College Of Engineering, Kariavattom carry out various examinations including university examinations and internal examinations for students and also conduct the allotted examinations of Kerala PSC.  </p>
+<p>The examination committee of ¦°¦Ï¦Ë¦Ô¦Ó¦Å¦Ö¦Í¦Å?¦Ï ¦¡¦È¦Ç¦Í?¦Í ¦ª¦Á¦É¦Í¦Ï¦Ó¦Ï¦Ì?¦Á?, Kariavattom carry out various examinations including university examinations and internal examinations for students and also conduct the allotted examinations of Kerala PSC.  </p>
 <br/><h2>GENERAL INFORMATION </h2>
 <h3><u> Attendance at Lectures </u></h3>
 <p>The college hours are from 9am to 4pm. Students are expected to attend all classes within this time period according to the time table and must meet the minimum requirements of the University in this regard.
 
 As per requirements of the University, students should have a minimum of 75% average attendance for all the courses only can register for the examination. Condonation (Relaxation) of shortage of attendance to a maximum of 10 days in a semester may be granted by the University on valid grounds. This is subject to a maximum of 2 times during the whole period of the programme. This condonation shall not be counted for internal assessment.</p>
-<p>Benefit of attendance may be granted to students attending University/College union/Co-curricular activities by treating them as a present for the days of absence. 
+<p>Benefit of attendance may be granted to students attending University/¦µ¦Ï¦É¦Ó¦Ç¦Ó¦É¦Ê? ?¦Í¦Ø¦Ò¦Ç/Co-curricular activities by treating them as a present for the days of absence. 
 
 This is applicable on production of participation/attendance certificates, within one week, from competent authorities and endorsed by the Head of the institution. This benefit is limited to a maximum of 7 days per semester and shall be considered for internal assessment also. Those students who are not eligible even with condonation of shortage of attendance are required to repeat the semester along with the next batch after obtaining readmission. Candidates attending less than 60% of the classes shall be debarred from appearing at the examination. Students, not attending theoretical classes regularly, will not be permitted to attend practical classes.</p>
 <p>Promotion and permission to appear at the University Examination are subject to not only satisfactory record or work but also regular attendance at lecture, tutorials, practicals and fulfilment of other conditions as required by the University.</p>
@@ -26,3 +26,4 @@ This is applicable on production of participation/attendance certificates, withi
 <tr><td> 8 </td><td>Mrs. Aiswarya Thankachi </td><td> Assistant Professor in Mechanical Engineering</td></tr>
 </table>
 </div>
+

@@ -1,94 +1,67 @@
-Informacione tehnologije
+Τεχνολογίες Πληροφοριών
 
-# Odsek za informacione tehnologije
+# Τμήμα Τεχνολογιών Πληροφοριών
 
-Odsek za informacione tehnologije je jedan od najboljih odseka Београдског техничкоg института за аутоматизацију, koji je počeo da funkcioniše 2000. godine. Od samog početka, odsek je visoko rangiran u akademskim krugovima. Diplomci sa ovog odseka rade kao IT stručnjaci, istraživači i predavači u vodećim kompanijama i institucijama u Srbiji i inostranstvu. Fakultet ima 10 nastavnika i jednog laboratorijskog asistenta. Trenutno više od 100 studenata pohađa ovaj odsek, a svake godine generacije diplomaca donose nove uspehe centru.
+Το Τμήμα Τεχνολογιών Πληροφοριών ιδρύθηκε το 2003 και είναι ένα από τα πιο δυναμικά τμήματα του Πολυτεχνείου Αθηνών Καινοτομίας.
 
-## Vizija
+## Όραμα
 
-Biti vodeći odsek u regionu za informacione tehnologije, poznat po inovativnosti, kvalitetu obrazovanja i pripremi studenata za digitalno društvo.
+Να γίνουμε κορυφαίο τμήμα στις τεχνολογίες πληροφοριών, προετοιμάζοντας τους φοιτητές για τις προκλήσεις της ψηφιακής εποχής.
 
-## Misija
+## Αποστολή
 
-Obrazovati stručnjake koji će biti lидери u oblasti informacionih tehnologija kroz:
-- Moderne nastavne metode
-- Praktično iskustvo
-- Istraživačke projekte
-- Saradnju sa industrijom
+Να παρέχουμε ολοκληρωμένη εκπαίδευση στις τεχνολογίες πληροφοριών, συνδυάζοντας θεωρία και πράξη για τη διαμόρφωση επαγγελματιών υψηλής ποιότητας.
 
-## Studijski programi
+## Προγράμματα
 
-### Osnovne studije - Informacione tehnologije (240 ESPB)
-Četvorogodišnji program koji pokriva:
-- Programiranje (Java, Python, C++, JavaScript)
-- Baze podataka i sistemi upravljanja bazama podataka
-- Web tehnologije i razvoj aplikacija
-- Mrežne tehnologije i bezbednost
-- Mobilne aplikacije
-- Veštačka inteligencija i mašinsko učenje
+- Προπτυχιακές σπουδές Τεχνολογιών Πληροφοριών (4 έτη)
+- Μεταπτυχιακές σπουδές - Διαχείριση Πληροφοριακών Συστημάτων (2 έτη)
+- Μεταπτυχιακές σπουδές - Κυβερνοασφάλεια (2 έτη)
 
-### Master studije (120 ESPB)
-Dvogodišnji program sa specijalizacijama:
-- **Softverske tehnologije** - Napredni razvoj softvera
-- **Mrežne tehnologije** - Upravljanje mrežama i bezbednost
-- **Analiza podataka** - Big Data i poslovna inteligencija
+## Εξειδικεύσεις
 
-## Laboratorije
+- **Ανάπτυξη Λογισμικού**: Full-stack development, Mobile apps
+- **Διαχείριση Δεδομένων**: Big Data, Business Intelligence
+- **Κυβερνοασφάλεια**: Ethical hacking, Digital forensics
+- **Δίκτυα**: Network administration, Cloud computing
+- **Τεχνητή Νοημοσύνη**: Machine Learning, Deep Learning
 
-1. **Laboratorija za programiranje**
-   - 40 radnih mesta sa najnovijim računarima
-   - Razvojni okruženja za sve popularne jezike
+## Εργαστήρια
 
-2. **Laboratorija za mreže**
-   - Cisco oprema za praktičnu nastavu
-   - Simulatori mrežnih topologija
+- Εργαστήριο Προγραμματισμού
+- Εργαστήριο Βάσεων Δεδομένων
+- Εργαστήριο Δικτύων
+- Εργαστήριο Κυβερνοασφάλειας
+- Εργαστήριο Mobile Development
 
-3. **Laboratorija za mobilne tehnologije**
-   - Android i iOS razvojni kompleti
-   - Testni uređaji za mobilne aplikacije
+## Διδακτικό Προσωπικό
 
-4. **Laboratorija za veštačku inteligenciju**
-   - GPU klasteri za mašinsko učenje
-   - Specializovani softver za AI projekte
+Το τμήμα διαθέτει έμπειρο διδακτικό προσωπικό με:
+- 6 Καθηγητές
+- 8 Αναπληρωτές Καθηγητές
+- 4 Επίκουροι Καθηγητές
+- 2 Εργαστηριακό προσωπικό
 
-## Istraživačke oblasti
+## Συνεργασίες
 
-- Облачno рачунарство (Cloud Computing)
-- Internet of Things (IoT)
-- Blockchain tehnologije
-- Кибербезбедност
-- Analiza velikih podataka
-- Mашинско учење
+- Microsoft Azure Academy
+- Oracle University
+- Cisco Networking Academy
+- Amazon Web Services (AWS)
+- Red Hat Academy
 
-## Saradnja
+## Επαγγελματικές Προοπτικές
 
-Odsek ima memorandume o razumevanju sa:
-- Microsoft Serbia
-- Oracle
-- SAP
-- Ericsson Nikola Tesla
-- Комtrade Group
-- RT-RK
+Οι απόφοιτοί μας εργάζονται ως:
+- Αναλυτές Πληροφοριακών Συστημάτων
+- Διαχειριστές Δικτύων
+- Ειδικοί Κυβερνοασφάλειας
+- Προγραμματιστές Εφαρμογών
+- Σύμβουλοι ΙΤ
+- Διευθυντές Έργων
 
-## Zapošljivost
+## Επικοινωνία
 
-95% naših diplomaca nalazi posao u roku od 6 meseci:
-- Software developeri
-- Sistem administratori
-- IT konsultanti
-- Projekat menadžeri
-- Аналитичари података
-- Кибербезбедност специјалисти
-
-## Kontakt informacije
-
-**Šef odseka:** Prof. dr Milan Marković  
-**Zamenik šefa:** Doc. dr Ana Јовановић  
-**Email:** it@btia.edu.rs  
-**Telefon:** +381 11 234 5680  
-**Kancelarija:** Zgrada B, sprat 2, sala 205
-
-<h2><p align="center">
-<a href="/faculties/it">View Faculty</a>
-</p>
-</h2>
+**Διευθυντής Τμήματος**: Καθ. Δρ. Σπυρίδων Αλεξανδρίδης
+**Email**: it@api.edu.gr
+**Τηλέφωνο**: +30 2130987652

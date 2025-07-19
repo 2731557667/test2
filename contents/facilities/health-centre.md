@@ -1,23 +1,45 @@
-HEALTH CENTRE
+# Κέντρο Υγείας
 
+## Περιγραφή
 
-  <div style="font-size: 17px;">
-    <p>
-      The Health Centre at UCEK offers essential medical support to students, faculty, and staff through an on-campus facility staffed by doctors, nurses, and health workers. It provides first aid, minor treatments, consultations, and emergency referrals during college hours. The centre also promotes campus wellness through regular checkups, awareness programs, and health campaigns, especially during high-stress periods like exams, ensuring a safe and supportive environment for the entire college community.
-    </p>
-  </div>
+Το Κέντρο Υγείας του ΠΑΚ προσφέρει βασική ιατρική υποστήριξη σε φοιτητές, διδακτικό προσωπικό και εργαζόμενους μέσω εγκαταστάσεων εντός του campus με επανδρωμένο ιατρικό και νοσηλευτικό προσωπικό. Παρέχει πρώτες βοήθειες, μικρές θεραπείες, συμβουλευτική και επείγουσες παραπομπές κατά τις ώρες λειτουργίας του κολλεγίου. Το κέντρο λειτουργεί Δευτέρα έως Παρασκευή από 9:00 π.μ. έως 4:00 μ.μ.
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">🩺 Services Offered</h3>
-  <ul style="margin-left: 1.5rem; font-size: 15px;">
-    <li>Basic first-aid and emergency medical assistance</li>
-    <li>Free medical consultations and minor treatments</li>
-    <li>Monitoring of chronic conditions like asthma, diabetes, etc.</li>
-    <li>Stress and mental health counseling support</li>
-  </ul>
+## Υπηρεσίες
 
-  <h3 style="margin-top: 1.5rem; color: #2c3e50; font-size: 18px;">🕒 Operating Hours</h3>
-  <ul style="margin-left: 1.5rem; font-size: 15px;">
-    <li><strong>Monday to Friday:</strong> 9:30 AM to 4:30 PM</li>
-    <li><strong>Emergency Care:</strong> Available during college events and functions</li>
-    <li><strong>Closed on:</strong> Sundays and public holidays (except in emergencies)</li>
-  </ul>
+### Βασικές Ιατρικές Υπηρεσίες
+- **Πρώτες Βοήθειες**: Άμεση φροντίδα για τραυματισμούς και ασθένειες
+- **Συμβουλευτική**: Γενικές ιατρικές συμβουλές και καθοδήγηση
+- **Βασικός Έλεγχος**: Μέτρηση πίεσης, θερμοκρασίας, σφυγμού
+- **Φαρμακευτική**: Βασικά φάρμακα και ιατρικά είδη
+
+### Προληπτική Φροντίδα
+- **Εμβολιασμοί**: Προγράμματα εμβολιασμού για φοιτητές
+- **Έλεγχος Υγείας**: Τακτικοί έλεγχοι και διαγνωστικές εξετάσεις
+- **Συμβουλευτική Υγείας**: Καθοδήγηση για υγιεινό τρόπο ζωής
+
+### Επείγουσες Υπηρεσίες
+- **24/7 Επείγουσα Γραμμή**: +30 21 3098 9243
+- **Παραπομπές**: Συντονισμός με τοπικά νοσοκομεία
+- **Ασθενοφόρο**: Άμεση πρόσβαση σε περίπτωση έκτακτης ανάγκης
+
+## Προσωπικό
+
+| Θέση | Όνομα | Επικοινωνία |
+|------|--------|------------|
+| Αρχιατρός | Δρ. Μαρία Παπαδοπούλου | +30 21 3098 9243 |
+| Νοσηλεύτρια | Ελένη Γεωργίου | +30 21 3098 9244 |
+| Βοηθός Νοσηλευτή | Νίκος Κωστόπουλος | +30 21 3098 9245 |
+
+## Ώρες Λειτουργίας
+
+- **Δευτέρα - Παρασκευή**: 09:00 - 16:00
+- **Σάββατο**: 09:00 - 13:00 (Μόνο επείγοντα)
+- **Κυριακή**: Κλειστό (Διαθέσιμη επείγουσα γραμμή)
+
+## Τοποθεσία
+
+Το Κέντρο Υγείας βρίσκεται στο ισόγειο του κτιρίου διοίκησης, απέναντι από τη βιβλιοθήκη. Είναι εύκολα προσβάσιμο από όλα τα τμήματα του campus.
+
+**Διεύθυνση**: Λεωφόρος Αλεξάνδρας 205, Αθήνα, Τ.Κ. 115 23
+**Email**: health@api.edu.gr
+**Τηλέφωνο**: +30 21 3098 9243

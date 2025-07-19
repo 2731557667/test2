@@ -1,87 +1,67 @@
-FOSS Klub
+Κλαμπ FOSS
 
-# FOSS Klub
+# Κλαμπ FOSS
 
-FOSS klub (Free and Open Source Software) je pionirski klub na Београдском техничком институту za automatsku koji promoviše kulturu besplatnog softvera i otvorenog koda među studentima.
+Το κλαμπ FOSS (Free and Open Source Software) είναι ένα πρωτοποριακό κλαμπ στο Πολυτεχνείο Αθηνών Καινοτομίας που προωθεί την κουλτούρα του ελεύθερου λογισμικού και του ανοιχτού κώδικα μεταξύ των φοιτητών.
 
-## O klubu
+## Σχετικά με το κλαμπ
 
-FOSS klub je osnovan 2001. godine sa misijom da upozna studente sa besplatnim softverom otvorenog koda i pomogne im da razviju veštine potrebne za doprinošenje open-source zajednici.
+Το κλαμπ FOSS ιδρύθηκε το 2001 με την αποστολή να εξοικειώσει τους φοιτητές με το ελεύθερο λογισμικό ανοιχτού κώδικα και να τους βοηθήσει να αναπτύξουν τις δεξιότητες που απαιτούνται για να συνεισφέρουν στην κοινότητα ανοιχτού κώδικα.
 
-## Naše vrednosti
+## Οι αξίες μας
 
-- **Sloboda** - Promovišemo softversku slobodu i prava korisnika
-- **Transparentnost** - Verujemo u otvorene procese i deljenje znanja
-- **Kolaboracija** - Podsticajemo teamski rad i zajedništvo
-- **Inovacija** - Podržavamo kreativnost i nove ideje
-- **Inkluzivnost** - Dobrodošli su svi, bez obzira na nivo znanja
+- **Ελευθερία** - Προωθούμε την ελευθερία λογισμικού και τα δικαιώματα των χρηστών
+- **Διαφάνεια** - Πιστεύουμε σε ανοιχτές διαδικασίες και στον διαμοιρασμό γνώσης
+- **Συνεργασία** - Ενθαρρύνουμε την ομαδική εργασία και την κοινότητα
+- **Καινοτομία** - Υποστηρίζουμε τη δημιουργικότητα και τις νέες ιδέες
+- **Περιεκτικότητα** - Καλωσορίζουμε όλους, ανεξάρτητα από το επίπεδο γνώσης
 
-## Aktivnosti
+## Δραστηριότητες
 
-### Radionice i obuke
-- Linux administracija
-- Git i GitHub  
-- Python programiranje
-- Web development sa open-source tehnologijama
-- Containerizacija sa Docker i Kubernetes
-- DevOps práktices
+### Εκπαιδευτικά Εργαστήρια
+- Εισαγωγή στο Linux
+- Προγραμματισμός Python
+- Git και έλεγχος έκδοσης
+- Docker και Kubernetes
+- Ανάπτυξη ιστοσελίδων
 
-### Događaji
-- **FOSS Nedelja** - Godišnji festival otvorenog softvera
-- **Install Fest** - Instaliranje Linux distribucija
-- **Hackathon** - 48-časovno kodiranje
-- **Tech Talks** - Predavanja stručnjaka iz industrije
+### Εκδηλώσεις
+- Μηνιαία meetups
+- Hackathons
+- Διαλέξεις από επαγγελματίες της βιομηχανίας
+- Συμμετοχή σε συνέδρια FOSS
 
-### Projekti
-- Razvoj aplikacija za fakultet
-- Doprinošenje postojećim open-source projektima
-- Kreiranje tutorial sadržaja
-- Održavanje fakultetske Linux laboratorije
+### Έργα
+- Ανάπτυξη open-source εφαρμογών
+- Συνεισφορά σε υπάρχοντα έργα
+- Τεκμηρίωση και μετάφραση
+- Αναφορά σφαλμάτων και επιδιορθώσεις
 
-## Сарадnje
+## Τεχνολογίες που χρησιμοποιούμε
 
-FOSS klub sarađuje sa:
-- Mozilla Foundation
-- Python Software Foundation  
-- Linux Foundation
-- Red Hat
-- SUSE
-- Canonical
+- **Γλώσσες Προγραμματισμού**: Python, JavaScript, Java, C++, Rust
+- **Λειτουργικά Συστήματα**: Ubuntu, Fedora, Arch Linux
+- **Εργαλεία Ανάπτυξης**: Git, Docker, Vim/Emacs, VS Code
+- **Βάσεις Δεδομένων**: PostgreSQL, MySQL, MongoDB
+- **Frameworks**: Django, React, Angular, Spring
 
-## Успеси клуба
+## Επιτεύγματα
 
-- 500+ članova kroz godine postojanja
-- 50+ organizovanih radionica
-- 25+ open-source projekata
-- 10+ članova zaposlenih u FANG kompanijama
+- 15+ ανοιχτά έργα που διατηρούμε
+- 200+ ενεργά μέλη
+- 50+ workshop ετησίως
+- Συνεργασίες με εταιρείες τεχνολογίας
+- Διοργάνωση του ετήσιου FOSS Conference Athens
 
-## Чланство
+## Πώς να γίνετε μέλος
 
-Чlanstvo u FOSS klubu je otvoreno za sve studente Београдског техничког institua za automatsku. Nema prethodnih uslova - jedino što je potrebno je entuzijazam za učenje!
+Το κλαμπ FOSS είναι ανοιχτό σε όλους τους φοιτητές, ανεξάρτητα από την εμπειρία τους. Για να γίνετε μέλος:
 
-### Benefiti članstva
-- Besplatan pristup svim radionicama
-- Mentorstvo от iskusnih članova
-- Networking sa FOSS zajednicom
-- Приступ ексклузивниm ресурсима
-- Учестvovanje u inter nacionalnim projektima
+1. Παρακολουθήστε ένα από τα μηνιαία μας meetups
+2. Εγγραφείτε στη mailing list μας
+3. Συμμετάσχετε στο Discord server μας
+4. Ξεκινήστε να συνεισφέρετε σε έργα
 
-## Контакт информације
-
-**Председник:** Марко Јовановић (IV godina IT)  
-**Заменик predsednika:** Ana Nikolić (III godina CSE)  
-**Email:** foss@btia.edu.rs  
-**Telegram:** @BTIA_FOSS  
-**Matrix:** #btia-foss:matrix.org  
-
-**Састанци:** Четвртком у 18:00, sala C205  
-**Discord сервер:** discord.gg/btia-foss
-
-## Како да се укључиш?
-
-1. Придружи se našem Discord серверу
-2. Дођi na nedeljni sastanak
-3. Пријави se za sledeću radionicu
-4. Започни sa svojim prvim open-source доприносом!
-
-*"Кoд je поезијa koja poкреće svet - a mi je želimo da bude slobodna!"*
+**Επικοινωνία**: foss@api.edu.gr
+**Website**: foss.api.edu.gr
+**IRC**: #api-foss στο Libera.Chat

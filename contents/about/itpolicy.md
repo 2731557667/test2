@@ -1,43 +1,41 @@
-```
-Politika Korišćenja Interneta i Kampus Mreže
+ΠΟΛΙΤΙΚΗ ΑΠΟΔΕΚΤΗΣ ΧΡΗΣΗΣ ΔΙΑΔΙΚΤΥΟΥ ΚΑΙ ΔΙΚΤΥΟΥ CAMPUS
 
-Univerzitetski Koledž Inženjerstva obezbeđuje Wi-Fi mrežu i računarske objekte za korišćenje od strane fakulteta, osoblja, studenata i drugih ovlašćenih pojedinaca u kampusu.
+Το Πολυτεχνείο Αθηνών Καινοτομίας παρέχει Wi-Fi δίκτυο και υπολογιστικές εγκαταστάσεις για χρήση από μέλη ΔΕΠ, προσωπικό, φοιτητές και άλλα εξουσιοδοτημένα άτομα στον campus.
 
-## IZJAVA O POLITICI KORIŠĆENJA IT RESURSA
+## ΔΗΛΩΣΗ ΠΟΛΙΤΙΚΗΣ ΧΡΗΣΗΣ ΤΠ ΠΟΡΩΝ
 
-Ova politika se odnosi na svu opremu koja je u vlasništvu UCK, kao i na privatnu opremu koja može biti povezana na mrežne usluge koje pruža UCK. Fakultet, osoblje i studenti se podstiču da se upoznaju sa tehnološkim resursima i sistemima koledža i da ih koriste redovno. Svaki pristup ili korišćenje IT resursa koji ometa, prekida ili je u sukobu sa ovim ciljevima nije prihvatljiv i smatraće se kršenjem ove Izjave o politici. Svi korisnici mogu pristupiti internet uslugama koledža samo ako poseduju važeći korisnički ID i lozinku izdatu od strane Centra za Wi-Fi kampusa.
+Αυτή η πολιτική αφορά όλο τον εξοπλισμό που ανήκει στο API, καθώς και τον ιδιωτικό εξοπλισμό που μπορεί να συνδεθεί στις υπηρεσίες δικτύου που παρέχει το API. Μέλη ΔΕΠ, προσωπικό και φοιτητές ενθαρρύνονται να εξοικειωθούν με τους τεχνολογικούς πόρους και συστήματα του κολλεγίου και να τα χρησιμοποιούν τακτικά. Οποιαδήποτε πρόσβαση ή χρήση των πόρων ΤΠ που παρεμβαίνει, διακόπτει ή έρχεται σε σύγκρουση με αυτούς τους στόχους δεν είναι αποδεκτή και θα θεωρηθεί παραβίαση αυτής της Δήλωσης Πολιτικής. Όλοι οι χρήστες μπορούν να έχουν πρόσβαση στις υπηρεσίες διαδικτύου του κολλεγίου μόνο εάν διαθέτουν έγκυρο αναγνωριστικό χρήστη και κωδικό πρόσβασης που εκδίδεται από το Κέντρο Wi-Fi του campus.
 
-### SMERNICE I ODGOVORNOSTI KORISNIKA
+### ΟΔΗΓΙΕΣ ΚΑΙ ΕΥΘΥΝΕΣ ΧΡΗΣΤΩΝ
 
-**Smernice**
+**Οδηγίες**
 
-Od korisnika se očekuje da ispoljavaju odgovorno, etičko ponašanje prilikom korišćenja ovih resursa i da se pridržavaju sledećih smernica:
+Από τους χρήστες αναμένεται να επιδεικνύουν υπεύθυνη, ηθική συμπεριφορά κατά τη χρήση αυτών των πόρων και να τηρούν τις ακόλουθες οδηγίες:
 
-* Internet i povezani resursi sadrže širok spektar materijala i informacija. Informacije dostupne na Internetu nisu generisane ili odabrane od strane UCK ITCELL-a. Koledž nije odgovoran za tačnost ili kvalitet informacija dobijenih putem ili sačuvanih na mreži kampusa.
-* Stvaranje, prikazivanje ili prenošenje ilegalnog, zlonamernog ili nepristojnog materijala je zabranjeno.
-* UCK neće biti odgovoran za postupke bilo koga ko se povezuje na Internet preko objekata Koledža. Svi korisnici preuzimaju punu odgovornost (pravnu, finansijsku ili drugu) za svoje postupke.
-* Korisnik je odgovoran za poštovanje zakona koji štite softver ili druge pristupljene informacije. Preuzimanje programa i datoteka može kršiti zakone o autorskim pravima koji štite informacije i softver.
-* Zbog nesigurne prirode elektronskog prenosa datoteka, ne postoji pravo na privatnost u vezi sa e-poštom, Internet sesijama ili elektronskim skladištenjem i prenosom datoteka. Prilikom slanja ili prosleđivanja e-pošte preko mreže kampusa ili Interneta, korisnici će se jasno i tačno identifikovati. Anonimno ili pseudonimno objavljivanje je izričito zabranjeno.
+* Το διαδίκτυο και οι σχετικοί πόροι περιέχουν ευρύ φάσμα υλικού και πληροφοριών. Οι πληροφορίες που είναι διαθέσιμες στο διαδίκτυο δεν παράγονται ή επιλέγονται από το API ITCELL. Το Κολλέγιο δεν είναι υπεύθυνο για την ακρίβεια ή την ποιότητα των πληροφοριών που αποκτώνται μέσω ή αποθηκεύονται στο δίκτυο του campus.
+* Η δημιουργία, εμφάνιση ή μετάδοση παράνομου, κακόβουλου ή άσεμνου υλικού απαγορεύεται.
+* Το API δεν θα είναι υπεύθυνο για τις ενέργειες οποιουδήποτε που συνδέεται στο διαδίκτυο μέσω των εγκαταστάσεων του Κολλεγίου. Όλοι οι χρήστες αναλαμβάνουν πλήρη ευθύνη (νομική, οικονομική ή άλλη) για τις ενέργειές τους.
+* Ο χρήστης είναι υπεύθυνος για τη συμμόρφωση με τους νόμους που προστατεύουν το λογισμικό ή άλλες προσβάσιμες πληροφορίες. Η λήψη προγραμμάτων και αρχείων μπορεί να παραβιάζει τους νόμους περί πνευματικών δικαιωμάτων που προστατεύουν πληροφορίες και λογισμικό.
+* Λόγω της ανασφαλούς φύσης της ηλεκτρονικής μεταφοράς αρχείων, δεν υπάρχει δικαίωμα ιδιωτικότητας σχετικά με το email, τις συνεδρίες διαδικτύου ή την ηλεκτρονική αποθήκευση και μεταφορά αρχείων. Κατά την αποστολή ή προώθηση email μέσω του δικτύου του campus ή του διαδικτύου, οι χρήστες θα αναγνωριστούν σαφώς και ακριβώς. Η ανώνυμη ή ψευδώνυμη δημοσίευση απαγορεύεται ρητά.
 
-**Odgovornosti**
+**Ευθύνες**
 
-Studentski nalog:
+Λογαριασμός Φοιτητή:
 
-* Student koji želi da dobije Wi-Fi/Internet nalog moraće da se registruje za isti. Kopija Registracionog obrasca je dostupna u UCEK centru za Wi-Fi kampusa.
-* Popunjeni Registracioni obrazac, propisno preporučen od strane Savetnika osoblja, treba predati u UCEK centru za Wi-Fi kampusa bilo kog radnog dana.
-* Nakon prihvatanja prijave, student će primiti e-poštu od Savetnika osoblja sa njegovim/njenim korisničkim imenom i lozinkom (za pristup WI-Fi / Internetu).
+* Ο φοιτητής που επιθυμεί να λάβει λογαριασμό Wi-Fi/Internet θα πρέπει να εγγραφεί για αυτόν. Αντίγραφο της Φόρμας Εγγραφής είναι διαθέσιμο στο κέντρο Wi-Fi campus του API.
+* Η συμπληρωμένη Φόρμα Εγγραφής, δεόντως συνιστώμενη από τον Σύμβουλο Προσωπικού, πρέπει να υποβληθεί στο κέντρο Wi-Fi campus του API οποιαδήποτε εργάσιμη ημέρα.
+* Μετά την αποδοχή της αίτησης, ο φοιτητής θα λάβει email από τον Σύμβουλο Προσωπικού με το όνομα χρήστη και τον κωδικό πρόσβασής του (για πρόσβαση Wi-Fi / Internet).
 
-Nalog osoblja:
+Λογαριασμός Προσωπικού:
 
-* Član osoblja koji želi da dobije Wi-Fi / Internet nalog treba da pošalje zahtev putem e-pošte sa svog e-mail ID-a (kao što je navedeno u Informativnom biltenu) sa podacima o svom Imenu, Zvanju i Odeljenju, upućen UCEK Wi-Fi centru. Svaka promena nečijeg e-mail ID-a u odnosu na onaj naveden u Informativnom biltenu biće unapred saopštena pre slanja zahteva.
-* On/ona će zatim primiti e-poštu od UCEK centra za Wi-Fi kampusa sa svojim korisničkim imenom i lozinkom (za pristup WI-Fi / Internetu).
+* Το μέλος του προσωπικού που επιθυμεί να λάβει λογαριασμό Wi-Fi / Internet πρέπει να στείλει αίτηση μέσω email από το email ID του (όπως αναφέρεται στο Ενημερωτικό Δελτίο) με στοιχεία για το Όνομα, Βαθμίδα και Τμήμα του, απευθυνόμενος στο κέντρο Wi-Fi του API. Οποιαδήποτε αλλαγή στο email ID κάποιου σε σχέση με αυτό που αναφέρεται στο Ενημερωτικό Δελτίο θα κοινοποιηθεί εκ των προτέρων πριν από την αποστολή του αιτήματος.
+* Στη συνέχεια θα λάβει email από το κέντρο Wi-Fi campus του API με το όνομα χρήστη και τον κωδικό πρόσβασής του (για πρόσβαση Wi-Fi / Internet).
 
-**Kako se prijaviti?**
-    Detalji o tome kako aktivirati Wi-Fi / Internet nalog po prijemu korisničkog imena i lozinke takođe će biti saopšteni putem e-pošte.
+**Πώς να συνδεθείτε;**
+Οι λεπτομέρειες σχετικά με την ενεργοποίηση λογαριασμού Wi-Fi / Internet μετά τη λήψη ονόματος χρήστη και κωδικού πρόσβασης θα κοινοποιηθούν επίσης μέσω email.
 
-**Politika korišćenja:**
+**Πολιτική χρήσης:**
 
-Wi-Fi će biti dostupan na laptopovima, desktop računarima i na svim uređajima.
-Wi-Fi će biti aktivan u kampusu 24 sata.
-Svi društveni mediji i sajtovi za umrežavanje su trenutno blokirani. Međutim, takvi sajtovi će biti otvoreni za ograničeno korišćenje od 12 sati do 13:00 svakog dana.
-```
+Το Wi-Fi θα είναι διαθέσιμο σε φορητούς υπολογιστές, επιτραπέζιους υπολογιστές και σε όλες τις συσκευές.
+Το Wi-Fi θα είναι ενεργό στον campus 24 ώρες.
+Όλα τα μέσα κοινωνικής δικτύωσης και ιστότοποι δικτύωσης είναι προς το παρόν αποκλεισμένοι. Ωστόσο, τέτοιοι ιστότοποι θα είναι ανοιχτοί για περιορισμένη χρήση από τις 12:00 έως τις 13:00 κάθε μέρα.

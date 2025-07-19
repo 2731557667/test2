@@ -1,43 +1,55 @@
-Računarstvo i programiranje
+Επιστήμη Υπολογιστών και Προγραμματισμός
 
-# Odsek za računarstvo i programiranje
+# Τμήμα Επιστήμης Υπολογιστών και Προγραμματισμού
 
-Odsek za računarstvo i programiranje osnovаn je 2000. godine i jedan je od najuspešnijih odseka Београдског техничког института за аутоматизацију. Od samog početka, odsek je visoko ocenjen u akademskim krugovima.
+Το Τμήμα Επιστήμης Υπολογιστών και Προγραμματισμού ιδρύθηκε το 2000 και είναι ένα από τα πιο επιτυχημένα τμήματα του Πολυτεχνείου Αθηνών Καινοτομίας. Από την αρχή, το τμήμα αξιολογείται υψηλά στους ακαδημαϊκούς κύκλους.
 
-## Vizija
+## Όραμα
 
-Postati vodeći odsek za računarske nauke u regionu, poznat po izvrsnosti u nastavi, istraživanju i inovacijama.
+Να γίνουμε το κορυφαίο τμήμα επιστήμης υπολογιστών στην περιοχή, γνωστό για την αριστεία στη διδασκαλία, την έρευνα και τις καινοτομίες.
 
-## Misija
+## Αποστολή
 
-Pružiti visokokvalitetno obrazovanje iz računarskih nauka, razvijati inovativna rešenja kroz istraživanja i pripremiti studente za uspešne karijere u IT industriji.
+Να παρέχουμε υψηλής ποιότητας εκπαίδευση στην επιστήμη υπολογιστών, να αναπτύσσουμε καινοτόμες λύσεις μέσω της έρευνας και να προετοιμάζουμε τους φοιτητές για επιτυχημένες καριέρες στη βιομηχανία ΙΤ.
 
-## Programi
+## Προγράμματα
 
-Odsek nudi:
-- Osnovne studije računarstvo (4 godine)
-- Master studije - Softversko inženjerstvo (2 godine)
-- Master studije - Veštačka inteligencija (2 godine)
-- Doktorske studije (3 godine)
+Το τμήμα προσφέρει:
+- Προπτυχιακές σπουδές Επιστήμης Υπολογιστών (4 έτη)
+- Μεταπτυχιακές σπουδές - Μηχανική Λογισμικού (2 έτη)
+- Μεταπτυχιακές σπουδές - Τεχνητή Νοημοσύνη (2 έτη)
 
-## Laboratorije
+## Εργαστήρια
 
-- Laboratorija za programiranje
-- Laboratorija za baze podataka
-- Laboratorija za računarske mreže
-- Laboratorija za veštačku inteligenciju
-- Laboratorija za mobilne aplikacije
+- Εργαστήριο Προγραμματισμού
+- Εργαστήριο Δικτύων
+- Εργαστήριο Τεχνητής Νοημοσύνης
+- Εργαστήριο Βάσεων Δεδομένων
+- Εργαστήριο Κυβερνοασφάλειας
 
-## Nastavni kadar
+## Διδακτικό Προσωπικό
 
-Odsek ima 25 članova nastavnog osoblja, uključujući 8 redovnih profesora, 10 docenata i 7 asistenata. Svi nastavnici imaju relevantno obrazovanje i iskustvo u industriji.
+Το τμήμα διαθέτει υψηλά καταρτισμένο διδακτικό προσωπικό με εμπειρία στους τομείς:
+- Αλγόριθμοι και Δομές Δεδομένων
+- Τεχνητή Νοημοσύνη και Μηχανική Μάθηση
+- Μηχανική Λογισμικού
+- Κυβερνοασφάλεια
+- Δίκτυα Υπολογιστών
 
-## Saradnja sa industrijom
+## Συνεργασίες
 
-Odsek ima aktivnu saradnju sa vodećim IT kompanijama u Srbiji i regionu, što omogućava studentima praktično iskustvo kroz stažiranje i projekte.
+Συνεργαζόμαστε με:
+- Κορυφαίες εταιρείες τεχνολογίας στην Ελλάδα
+- Διεθνή πανεπιστήμια
+- Ερευνητικά κέντρα
+- Start-up εταιρείες
 
-## Kontakt
+## Επαγγελματικές Προοπτικές
 
-**Шеф odseka:** Prof. dr Petar Nikolić  
-**Email:** cse@btia.edu.rs  
-**Telefon:** +381 11 234 5678
+Οι απόφοιτοί μας εργάζονται ως:
+- Μηχανικοί Λογισμικού
+- Αναλυτές Συστημάτων
+- Ειδικοί Κυβερνοασφάλειας
+- Επιστήμονες Δεδομένων
+- Ερευνητές ΤΝ
+- Διευθυντές Έργων ΙΤ

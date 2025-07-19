@@ -2,8 +2,8 @@
 User-agent: *
 Allow: /
 
-# Host
-Host: https://uck.ac.in
+# Host and sitemap configuration
+Host: https://api.edu.gr
 
-# Sitemaps
-Sitemap: https://uck.ac.in/sitemap.xml
+# Sitemap location
+Sitemap: https://api.edu.gr/sitemap.xml

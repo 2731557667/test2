@@ -12,7 +12,7 @@
 
                     
 
-                	Short term Training Programme on Cloud Computing was Organized jointly by Computer Science and Engineering and Information Technology departments on February 2016.
+                	Short term Training Programme on Cloud Computing was Organized jointly by ¦¥¦Ð¦É¦Ò¦Ó?¦Ì¦Ç ¦´¦Ð¦Ï¦Ë¦Ï¦Ã¦É¦Ò¦Ó?¦Í ¦Ê¦Á¦É ¦¬¦Ç¦Ö¦Á¦Í¦É¦Ê? and ¦³¦Å¦Ö¦Í¦Ï¦Ë¦Ï¦Ã?¦Å? ¦°¦Ë¦Ç¦Ñ¦Ï¦Õ¦Ï¦Ñ¦É?¦Í departments on February 2016.
 
 	            </div>
 <div class="deptRightDiv"> <!-- for Department Menu -->
@@ -47,3 +47,4 @@
 </a>
 </div>
 </div>
+

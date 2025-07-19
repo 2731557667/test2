@@ -1,117 +1,157 @@
-Tehnički klub
+Τεχνικό Κλαμπ IEEE
 
-# IEEE Tehnički klub
+# IEEE Student Branch API
 
-IEEE Tehnički klub je prestižno студентско удружење на Београдском техничком институту за аутоматизацију, део светске IEEE организације, највеће професионалне организације за напредак технологије.
+Το IEEE Student Branch του Πολυτεχνείου Αθηνών Καινοτομίας είναι ένα από τα πιο ενεργά τεχνικά κλαμπ του ιδρύματος, που προωθεί την τεχνική αριστεία και την επαγγελματική ανάπτυξη των φοιτητών.
 
-## О IEEE
+## Σχετικά με το IEEE
 
-Institute of Electrical and Electronics Engineers (IEEE) je globalna организация која промовише иновације и превасходство у области електротехнике, рачунарства и сродних технолошких дисциплина.
+Το IEEE (Institute of Electrical and Electronics Engineers) είναι ο μεγαλύτερος επαγγελματικός οργανισμός στον κόσμο που αφιερώνεται στην προώθηση της τεχνολογίας για την ωφέλεια της ανθρωπότητας.
 
-## Наш огранак
+### Το Student Branch μας
+- **Ιδρύθηκε**: 2002
+- **Μέλη**: 380+ ενεργά μέλη
+- **Chapters**: 4 ειδικευμένα chapters
+- **Αναγνώριση**: Outstanding Student Branch Award 2023
 
-IEEE огранак BTIA je основан 2002. године и од тада представља центар за техничке активности и професионални развој студената.
+## Chapters
 
-## Циљеви
+### IEEE Computer Society
+- **Εστίαση**: Επιστήμη Υπολογιστών και Μηχανική Λογισμικού
+- **Δραστηριότητες**: Programming contests, AI workshops, Software engineering seminars
+- **Έργα**: Open source development, Mobile app competitions
 
-- Промовисање техничких знања и иновација
-- Развој лидерских вештина код студената  
-- Умрежавање са стручњацима из индустрије
-- Организовање техничких такмичења и конференција
-- Подршка истраживачким активностима студената
+### IEEE Communications Society  
+- **Εστίαση**: Τηλεπικοινωνίες και Δίκτυα
+- **Δραστηριότητες**: 5G workshops, IoT projects, Network security seminars
+- **Έργα**: Smart campus connectivity, Wireless sensor networks
 
-## Активности
+### IEEE Power & Energy Society
+- **Εστίαση**: Ενεργειακά Συστήματα και Ανανεώσιμες Πηγές
+- **Δραστηριότητες**: Smart grid seminars, Renewable energy projects
+- **Έργα**: Solar panel optimization, Energy management systems
 
-### Техничке радионице
-- **Embedded системи** - Arduino, Raspberry Pi, микроконтролери
-- **Machine Learning** - TensorFlow, PyTorch радионице
-- **Роботика** - Дизајн и програмирање роботa
-- **IoT пројекти** - Internet of Things апликације
-- **FPGA програмирање** - Дигитални дизајн
-- **Сигнално процесирање** - MATLAB/Simulink
+### IEEE Robotics and Automation Society
+- **Εστίαση**: Ρομποτική και Αυτοματισμός
+- **Δραστηριότητες**: Robot building workshops, Competition teams
+- **Έργα**: Autonomous drones, Industrial automation
 
-### Такмичења
-- **IEEE BTIA Tech Challenge** - Годишње такмичење
-- **Robotics Competition** - Регионално такмичење у роботици  
-- **Hackathon** - 24-часовни хакатон
-- **Paper Presentation** - Студентске научне презентације
-- **Circuit Debugging** - Такмичење у решавању хардверских проблема
+## Δραστηριότητες
 
-### Конференције и семинари
-- **BTIA Tech Talks** - Месечни семинари
-- **Индустријски семинари** - Гостујући предавачи
-- **Студентска конференција** - Годишња научна конференција
-- **Worкshop Weekend** - Интензивни викенд радионице
+### Τεχνικά Workshops
+- **Μηνιαία workshops** σε cutting-edge τεχνολογίες
+- **Hands-on εργαστήρια** με πραγματικά projects
+- **Expert talks** από επαγγελματίες της βιομηχανίας
+- **Certification programs** σε συνεργασία με εταιρείες
 
-## Чланство
+### Διαγωνισμοί
+- **IEEE Xtreme Programming Competition**: Ετήσιος παγκόσμιος διαγωνισμός
+- **Hardware Design Challenge**: Σχεδιασμός ηλεκτρονικών συστημάτων
+- **Innovation Challenge**: Καινοτόμες τεχνολογικές λύσεις
+- **Ethics in Technology**: Διαγωνισμός δεοντολογίας
 
-### Предности чланства
-- Приступ IEEE дигиталној библиотеци
-- Попуст на IEEE конференцијe и публикације
-- Networking са 400,000+ IEEE чланова широм света
-- Бесплатне техничке радионице
-- Менторство од стране искусних инжењера
-- Препоруке за стипендије и интернships
+### Εκδηλώσεις
+- **API Tech Conference**: Ετήσιο συνέδριο τεχνολογίας
+- **Industry Meetups**: Networking με επαγγελματίες
+- **Career Fair**: Εύρεση εργασίας και internships
+- **Social events**: Team building και διασκέδαση
 
-### Услови за чланство
-- Студент Београдског техничког института за аутоматизацију
-- Интересовање за електротехнику, рачунарство или сродне области
-- Спремност за активно учешће у активностима
+## Προγράμματα Ανάπτυξης
 
-## Пројекти
+### Τεχνικά Skills
+- **Programming Languages**: Python, C++, Java, MATLAB, Verilog
+- **Hardware Platforms**: Arduino, Raspberry Pi, FPGA, Microcontrollers
+- **Software Tools**: CAD software, Simulation tools, Development environments
+- **Emerging Technologies**: AI/ML, IoT, Blockchain, Quantum computing
 
-### Тренутни пројекти
-1. **Smart Campus** - IoT решења за паметни кампус
-2. **Autonomous Vehicle** - Самоуправни роботски возило  
-3. **Renewable Energy Monitor** - Систем за праћење обновљиве енергије
-4. **AI Assistant** - Гласовни асистент за студенте
-5. **Blockchain Voting** - Сигурни систем за гласање
+### Soft Skills
+- **Leadership Training**: Προγράμματα ηγεσίας και διοίκησης
+- **Communication Skills**: Παρουσίαση και δημόσιος λόγος
+- **Project Management**: Διαχείριση έργων και ομάδων
+- **Entrepreneurship**: Επιχειρηματικότητα και καινοτομία
 
-### Завршени пројекти
-- Паметни систем за паркирање (2023)
-- Аутоматизација библиотеке (2022)  
-- Систем за праћење присуства (2021)
-- Метеоролошка станица (2020)
+## Πιστοποιήσεις και Βραβεία
 
-## Партнерства
+### IEEE Certifications
+- **Associate Level**: Προγραμματισμός και Hardware basics
+- **Professional Level**: Προχωρημένες τεχνολογίες
+- **Specialist Certifications**: AI, Cybersecurity, IoT
 
-### Академска сарадња
-- Electrical Engineering Department, MIT
-- ETH Zurich  
-- Technical University of Munich
-- Београдски универзитет
+### Βραβεία και Αναγνώριση
+- **2023**: Best Student Branch in Greece
+- **2022**: Outstanding Programming Team Award
+- **2021**: Innovation in Engineering Education Award
+- **2020**: Community Service Recognition
 
-### Индустријска сарадња
-- Ericsson Nikola Tesla
-- Microsoft
-- Intel
-- Schneider Electric
-- Siemens
+## Ερευνητικά Έργα
 
-## Лидерство
+### Τρέχοντα Projects
+- **Smart Campus IoT**: Σύστημα παρακολούθησης campus με IoT sensors
+- **AI-Powered Energy Management**: Έξυπνη διαχείριση ενέργειας κτιρίων
+- **5G Network Optimization**: Βελτιστοποίηση δικτύων 5G
+- **Autonomous Navigation**: Αυτόνομη ναυσιπλοΐα για robots
 
-**Председник:** Петар Марковић (IV година ECE)  
-**Потпредседник:** Милица Стојановић (III година ECE)  
-**Технички директор:** Никола Поповић (IV година IT)  
-**Секретар:** Ана Ђорђевић (II година CSE)  
-**Благајник:** Марко Николић (III година ECE)
+### Επιτεύγματα
+- **15+ δημοσιεύσεις** σε IEEE conferences
+- **5 πατέντες** κατατέθηκαν από μέλη
+- **�?00K+ funding** για ερευνητικά projects
+- **12 συνεργασίες** με εταιρείες
 
-## Контакт
+## Δίκτωμα και Ευκαιρίες
 
-**Email:** ieee@btia.edu.rs  
-**Website:** ieee.btia.edu.rs  
-**LinkedIn:** IEEE BTIA Student Branch  
-**Instagram:** @ieee_btia  
+### Internships και Καριέρα
+- **80+ εταιρείες** συνεργάτες για internships
+- **95% placement rate** για ενεργά μέλη
+- **Mentorship program** με alumni
+- **Job referral network** παγκοσμίως
 
-**Канцеларија:** Зграда C, спрат 3, сала 315  
-**Састанци:** Понедељком у 17:00
+### Διεθνείς Ευκαιρίες
+- **IEEE Global conferences**: Συμμετοχή με υποτροφίες
+- **Exchange programs**: Ανταλλαγές με άλλα universities
+- **International competitions**: Παγκόσμιοι διαγωνισμοί
+- **Research collaborations**: Διεθνείς ερευνητικές συνεργασίες
 
-## Придружи се!
+## Ηγεσία 2024-2025
 
-Заинтересовани за чланство?
-1. Посети наш сајт: ieee.btia.edu.rs
-2. Попуни апликацију online  
-3. Дођи на информативни састанак
-4. Плати годишњу чланарину (800 RSD за студенте)
+- **Πρόεδρος**: Ελένη Παπαγεωργίου (ECE, IV έτος)
+- **Αντιπρόεδρος**: Νίκος Αθανασίου (CSE, III έτος)
+- **Ταμίας**: Μαρία Κωνσταντίνου (IT, IV έτος)
+- **Γραμματέας**: Δημήτρης Γεωργίου (ECE, II έτος)
+- **Technical Chair**: Αλέξανδρος Νικολάου (CSE, V έτος)
 
-*"Напредак кроз технологију - заједно градимо будућност!"*
+## Πώς να γίνετε μέλος
+
+### Προϋποθέσεις
+- Φοιτητής σε STEM προγράμματα
+- Ενδιαφέρον για τεχνολογία και καινοτομία
+- Δέσμευση συμμετοχής σε δραστηριότητες
+
+### Διαδικασία εγγραφής
+1. **Παρακολουθήστε** μια από τις εβδομαδιαίες συναντήσεις
+2. **Συμπληρώστε** την online εγγραφή
+3. **Πληρώστε** το ετήσιο membership fee (�?5 φοιτητές)
+4. **Επιλέξτε** το chapter που σας ενδιαφέρει
+
+### Οφέλη μέλους
+- **Δωρεάν** πρόσβαση σε όλα τα workshops
+- **Προτεραιότητα** σε διαγωνισμούς και εκδηλώσεις
+- **Πιστοποιητικά** συμμετοχής και εκπαίδευσης
+- **Networking** με επαγγελματίες και alumni
+- **Career support** και job placement assistance
+
+## Επικοινωνία
+
+**Email**: ieee@api.edu.gr  
+**Website**: ieee.api.edu.gr  
+**LinkedIn**: IEEE Student Branch API  
+**Instagram**: @ieee_api  
+**Discord**: IEEE API Community  
+
+**Συναντήσεις**: Κάθε Τρίτη 18:00, Αίθουσα A205  
+**Office**: Β' όροφος, Κτίριο Ηλεκτρολόγων  
+
+---
+
+**"Advancing Technology for Humanity - Προωθώντας την Τεχνολογία για την Ανθρωπότητα"**
+
+*Γίνετε μέλος της μεγαλύτερης τεχνικής κοινότητας του κόσμου!*

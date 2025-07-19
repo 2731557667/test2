@@ -1,7 +1,7 @@
 Women Empowerment Cell
 <p>A Women Empowerment Cell (WEC) has been constituted to empower and safegaurd the rights of female members, faculty staff and students of  t h e our institution. The WEC works to promote gender sensitivity in the campus  and conduct diverse programmes to educate, sensitize both male and female members and produce harmonious atmosphere on the campus. It works for the welfare of the students and faculty towards preparing them in to competent professionals to take up greater challenges in the academic sphere. </p>
 <h2>ABOUT THE CELL</h2>
-<p>Women Cell of UCEK  is established with the motto of “towards self-empowered MASTERY  mind“. The cell aims to empower girl students and faculty, enhance their understanding of issues related to women and to make the college campus a safe place for girls and women and to address the practical issues related to the welfare and equal opportunities for Women faculty, staff and students.</p>
+<p>Women Cell of API  is established with the motto of “towards self-empowered MASTERY  mind�? The cell aims to empower girl students and faculty, enhance their understanding of issues related to women and to make the college campus a safe place for girls and women and to address the practical issues related to the welfare and equal opportunities for Women faculty, staff and students.</p>
 <p>With a view to take up women’s issues and problems, the cell aims at creating awareness of their rights and duties. It also provides a platform for women to share their experiences and views regarding their status in the society. Aiming at intellectual and social upliftment of the female students, the cell stands for facilitating women’s empowerment through guest lectures, seminars, awareness programs and other welfare activities.</p>
 <h2>VISION</h2>
 <p>	To promote general well-being of female students, teaching and non-teaching women staff of the College and to provide and maintain a dignified, congenial working environment for women and enable them to explore their imminent potential in all aspects.</p>
@@ -29,9 +29,9 @@ Women Empowerment Cell
 
 	Celebration of International Womens Day on March 8th, every year<br/>
 
-	To inculcate entrepreneurial attitude among young girls, scientists at the earliest so that they can be “job providers” rather than “job seekers”.<br/>
+	To inculcate entrepreneurial attitude among young girls, scientists at the earliest so that they can be “job providers�?rather than “job seekers�?<br/>
 
-	Counseling services for resident and non – resident students head of the department nominates the members of WEC. <br/>
+	Counseling services for resident and non �?resident students head of the department nominates the members of WEC. <br/>
  
 	It organizes workshops and sensitization programmes both for staff and students by eminent Psy- chologists and social workers.<br/><br/>
 The committee also addresses similar kind of issues on various occasions like: <br/>
@@ -49,3 +49,4 @@ Composition of Woman Empowerment Cell:
 <tr><td> Mrs Salu Lekshman</td><td> Assistant  Professor </td><td>IT dept</td></tr>
 </table>
 </p></div>
+

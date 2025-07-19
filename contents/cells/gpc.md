@@ -7,7 +7,7 @@ Green protocol cell “Green Protocol is based on three principles—reduce, reu
 * Avoid banned plastic materials; follow government rules in this regard.  
 * Segregate bio and non-bio degradable; compost bio degradable at source using simple and appropriate composting devices.  
 * Keep the non-bio degradable clean and dry and store separately based the type; hand it over to local body systems or scrap dealer for recycling.  
-* Avoid ‘use and throw’ carry bags. Always use bags made of eco-friendly materials.  
+* Avoid ‘use and throw�?carry bags. Always use bags made of eco-friendly materials.  
 * Always use cloth banners instead of flex.  
 * Use bamboo baskets or ones made of eco-friendly materials instead of plastic waste baskets.  
 * Always use eco-friendly materials like leaves flowers etc for decoration and while making bouquets for felicitating guests.  

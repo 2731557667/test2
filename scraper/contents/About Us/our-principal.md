@@ -1,8 +1,9 @@
-<h2>Direktor</h2>
+<h2>Διευθυντής</h2>
 <div style="width:160px; float:left; margin-right:20px;margin-bottom:6px;">
 <img src="images/depts/principal.jpg"/>
 </div>
-<h3>Dr. Milena Petrović</h3>
-<p>Contact No :+381 11 2345678<br/>+381 64 8765432</p>
-<p>EMail : milena.petrović@btia.edu.rs</p>
-<p><b></b>Prof. (Dr) Milena Petrović, diplomirala je na Elektrotehničkom fakultetu Univerziteta u Beogradu 2002. godine, magistrirala 2006. i doktorirala 2010. godine iz oblasti informacionih tehnologija. Svoju karijeru započela je kao asistent na Fakultetu tehničkih nauka u Novom Sadu, a potom je radila kao docent i vanredni profesor na više univerziteta u Srbiji. Ima više od 20 godina iskustva u nastavi, istraživanju i upravljanju obrazovnim institucijama. Tokom svoje karijere bila je rukovodilac brojnih projekata iz oblasti digitalizacije obrazovanja i međunarodne saradnje.</p>
+<h3>Δρ. Μιλένα Πετρόπουλου</h3>
+<p>Τηλέφωνο επικοινωνίας :+30 21 2345 6789<br/>+30 69 44 87 6543</p>
+<p>EMail : milena.petropoylou@api.edu.gr</p>
+<p><b></b>Καθ. (Δρ) Μιλένα Πετρόπουλου, αποφοίτησε από τη Σχολή Ηλεκτρολόγων Μηχανικών του Εθνικού Μετσόβιου Πολυτεχνείου το 2002, έλαβε μεταπτυχιακό τίτλο το 2006 και διδακτορικό το 2010 στον τομέα των τεχνολογιών πληροφορικής. Ξεκίνησε την καριέρα της ως βοηθός διδασκαλίας στη Σχολή Τεχνολογικών Επιστημών στη Θεσσαλονίκη, και στη συνέχεια εργάστηκε ως επίκουρη καθηγήτρια και αναπληρώτρια καθηγήτρια σε πολλά πανεπιστήμια της Ελλάδας. Έχει πάνω από 20 χρόνια εμπειρίας στη διδασκαλία, την έρευνα και τη διαχείριση εκπαιδευτικών ιδρυμάτων. Κατά τη διάρκεια της καριέρας της ήταν επικεφαλής πολλών έργων στον τομέα της ψηφιοποίησης της εκπαίδευσης και της διεθνούς συνεργασίας.</p>
+

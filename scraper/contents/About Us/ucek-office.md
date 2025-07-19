@@ -1,6 +1,6 @@
 <h2>Office</h2>
 <h2>
-<p>The Administrative Office of University College of Engineering works under the direct supervision of Kerala university and consists of Assistant Registrar, Administrative Officer and a Senior Grade Assistant.  All matters related to staff and students of the college are processed are maintained here.</p>
+<p>The Administrative Office of ¦°¦Ï¦Ë¦Ô¦Ó¦Å¦Ö¦Í¦Å?¦Ï ¦¡¦È¦Ç¦Í?¦Í ¦ª¦Á¦É¦Í¦Ï¦Ó¦Ï¦Ì?¦Á? works under the direct supervision of Kerala university and consists of Assistant Registrar, Administrative Officer and a Senior Grade Assistant.  All matters related to staff and students of the college are processed are maintained here.</p>
 <p><strong><h2>Office Timings</h2></strong></p><h4>
 <table border="0" cellpadding="8">
 <tr><td>1</td><td>Monday to Saturday</td><td>10:00 am to 5:00 pm</td></tr>
@@ -25,3 +25,4 @@
 <tr><td>2</td><td>Smt.Athira K R </td><td>Assistant</td><td>9562313858</td></tr>
 </table>
 </h4></h4></h2></div>
+
